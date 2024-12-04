@@ -1,0 +1,996 @@
+Fecha,Pais,Num_Turistas,Estacionalidad,Organizacion_Viaje,Satisfaccion,Temperatura_Media,Precipitacion_Media,Destino_Principal,Medio_Acceso
+2024-09-01,Alemania,1309425.0,Media-Alta,Individual,8.2,6.8,55.3,Madrid,Aeropuerto
+2024-08-01,Alemania,1241647.0,Alta,Individual,9.08,11.0,47.7,Islas Baleares,Aeropuerto
+2024-07-01,Alemania,1250364.0,Alta,Paquete,8.42,16.6,20.6,Islas Baleares,Aeropuerto
+2024-06-01,Alemania,1135532.0,Media-Alta,Paquete,8.39,15.2,28.2,Islas Baleares,Aeropuerto
+2024-05-01,Alemania,1229437.0,Media,Individual,8.97,23.8,21.8,Madrid,Aeropuerto
+2024-04-01,Alemania,1136042.0,Media,Individual,8.71,24.1,4.8,Cataluña,Aeropuerto
+2024-03-01,Alemania,909031.0,Media,Individual,8.89,25.4,3.7,Islas Baleares,Aeropuerto
+2024-02-01,Alemania,592188.0,Baja,Individual,8.46,19.0,2.2,Madrid,Aeropuerto
+2024-01-01,Alemania,551305.0,Baja,Paquete,7.89,17.5,22.9,Andalucía,Aeropuerto
+2023-12-01,Alemania,561358.0,Baja,Individual,9.03,7.9,74.1,Canarias,Aeropuerto
+2023-11-01,Alemania,623346.0,Baja,Paquete,8.84,9.5,58.7,Comunidad Valenciana,Carretera
+2023-10-01,Alemania,1146363.0,Media,Individual,8.65,7.8,25.4,Canarias,Aeropuerto
+2023-09-01,Alemania,1295042.0,Media-Alta,Individual,7.91,5.0,28.6,Madrid,Aeropuerto
+2023-08-01,Alemania,1181927.0,Alta,Individual,8.52,11.8,42.0,Canarias,Puerto
+2023-07-01,Alemania,1173471.0,Alta,Paquete,8.62,11.9,45.8,Canarias,Aeropuerto
+2023-06-01,Alemania,1155935.0,Media-Alta,Individual,8.91,21.6,24.2,Islas Baleares,Aeropuerto
+2023-05-01,Alemania,1124990.0,Media,Paquete,8.7,25.0,3.6,Comunidad Valenciana,Aeropuerto
+2023-04-01,Alemania,1009178.0,Media,Individual,8.79,27.8,14.2,Canarias,Aeropuerto
+2023-03-01,Alemania,706069.0,Media,Individual,8.67,25.1,24.9,Madrid,Puerto
+2023-02-01,Alemania,532120.0,Baja,Individual,8.76,18.3,16.5,Canarias,Aeropuerto
+2023-01-01,Alemania,479860.0,Baja,Paquete,8.76,14.6,22.3,Andalucía,Aeropuerto
+2022-12-01,Alemania,453940.0,Baja,Individual,8.16,12.4,27.6,Cataluña,Aeropuerto
+2022-11-01,Alemania,526060.0,Baja,Individual,9.21,9.7,34.3,Madrid,Aeropuerto
+2022-10-01,Alemania,1059486.0,Media,Individual,8.83,6.8,33.3,Cataluña,Carretera
+2022-09-01,Alemania,1141699.0,Media-Alta,Paquete,8.74,5.1,49.4,Cataluña,Carretera
+2022-08-01,Alemania,1111063.0,Alta,Paquete,9.03,7.6,44.1,Islas Baleares,Aeropuerto
+2022-07-01,Alemania,1097080.0,Alta,Individual,9.11,14.3,32.3,Cataluña,Carretera
+2022-06-01,Alemania,1132151.0,Media-Alta,Paquete,8.55,17.5,28.1,Andalucía,Carretera
+2022-05-01,Alemania,976860.0,Media,Individual,9.28,25.2,0.0,Islas Baleares,Aeropuerto
+2022-04-01,Alemania,990455.0,Media,Individual,8.59,25.3,21.1,Comunidad Valenciana,Aeropuerto
+2022-03-01,Alemania,608382.0,Media,Individual,8.58,21.6,9.3,Islas Baleares,Aeropuerto
+2022-02-01,Alemania,389420.0,Baja,Individual,8.33,21.3,4.0,Canarias,Aeropuerto
+2022-01-01,Alemania,282002.0,Baja,Individual,8.69,12.5,43.3,Islas Baleares,Aeropuerto
+2021-12-01,Alemania,404430.0,Baja,Paquete,8.47,10.6,53.7,Comunidad Valenciana,Aeropuerto
+2021-11-01,Alemania,480277.0,Baja,Paquete,8.87,7.8,48.0,Cataluña,Aeropuerto
+2021-10-01,Alemania,929665.0,Media,Individual,8.77,6.3,49.3,Islas Baleares,Aeropuerto
+2021-09-01,Alemania,833147.0,Media-Alta,Individual,8.5,5.0,37.9,Canarias,Aeropuerto
+2021-08-01,Alemania,679144.0,Alta,Paquete,9.02,14.0,39.7,Madrid,Aeropuerto
+2021-07-01,Alemania,707397.0,Alta,Individual,8.9,16.1,13.4,Islas Baleares,Puerto
+2021-06-01,Alemania,500058.0,Media-Alta,Paquete,8.83,22.4,27.0,Cataluña,Carretera
+2021-05-01,Alemania,338709.0,Media,Paquete,8.52,22.1,13.9,Comunidad Valenciana,Carretera
+2021-04-01,Alemania,143500.0,Media,Individual,8.65,24.4,0.0,Madrid,Aeropuerto
+2021-03-01,Alemania,104567.0,Media,Individual,8.73,23.7,15.0,Cataluña,Aeropuerto
+2021-02-01,Alemania,36877.0,Baja,Paquete,8.95,21.1,9.3,Cataluña,Carretera
+2021-01-01,Alemania,51123.0,Baja,Paquete,8.45,14.2,23.4,Andalucía,Aeropuerto
+2020-12-01,Alemania,82722.0,Baja,Individual,8.54,9.0,47.4,Islas Baleares,Tren
+2020-11-01,Alemania,76410.0,Baja,Individual,8.49,5.0,49.6,Comunidad Valenciana,Aeropuerto
+2020-10-01,Alemania,83329.0,Media,Paquete,8.59,5.0,54.5,Islas Baleares,Aeropuerto
+2020-09-01,Alemania,88109.0,Media-Alta,Individual,8.54,8.9,56.0,Canarias,Carretera
+2020-08-01,Alemania,296447.0,Alta,Individual,9.19,7.1,32.5,Cataluña,Carretera
+2020-07-01,Alemania,430014.0,Alta,Individual,9.19,13.8,44.2,Comunidad Valenciana,Aeropuerto
+2020-06-01,Alemania,34547.0,Media-Alta,Paquete,9.24,18.1,25.5,Comunidad Valenciana,Aeropuerto
+2020-05-01,Alemania,0.0,Media,Individual,8.63,24.9,0.7,Andalucía,Aeropuerto
+2020-04-01,Alemania,0.0,Media,Individual,8.47,26.8,9.2,Cataluña,Aeropuerto
+2020-03-01,Alemania,273067.0,Media,Individual,8.61,25.8,5.9,Canarias,Carretera
+2020-02-01,Alemania,533079.0,Baja,Individual,8.58,21.7,9.3,Islas Baleares,Aeropuerto
+2020-01-01,Alemania,493713.0,Baja,Individual,9.07,17.4,32.1,Madrid,Aeropuerto
+2019-12-01,Alemania,495062.0,Baja,Paquete,8.44,9.3,37.2,Cataluña,Carretera
+2019-11-01,Alemania,569008.0,Baja,Paquete,8.75,5.0,44.8,Madrid,Aeropuerto
+2019-10-01,Alemania,1126442.0,Media,Individual,8.99,6.2,46.9,Cataluña,Aeropuerto
+2019-09-01,Alemania,1265644.0,Media-Alta,Paquete,8.46,7.4,59.4,Islas Baleares,Aeropuerto
+2019-08-01,Alemania,1130065.0,Alta,Paquete,9.35,12.1,46.2,Cataluña,Carretera
+2019-07-01,Alemania,1243087.0,Alta,Paquete,8.81,12.5,32.7,Cataluña,Aeropuerto
+2019-06-01,Alemania,1295337.0,Media-Alta,Paquete,8.37,21.6,15.6,Madrid,Aeropuerto
+2019-05-01,Alemania,1085570.0,Media,Paquete,8.44,22.8,14.6,Comunidad Valenciana,Aeropuerto
+2019-04-01,Alemania,1072814.0,Media,Individual,8.77,27.8,16.6,Madrid,Aeropuerto
+2019-03-01,Alemania,809144.0,Media,Individual,9.17,18.4,14.7,Cataluña,Aeropuerto
+2019-02-01,Alemania,548064.0,Baja,Paquete,8.5,20.3,31.2,Andalucía,Carretera
+2019-01-01,Alemania,517785.0,Baja,Paquete,8.91,15.0,20.6,Islas Baleares,Aeropuerto
+2024-09-01,Bélgica,315624.0,Media-Alta,Individual,8.03,7.2,44.8,Cataluña,Aeropuerto
+2024-08-01,Bélgica,334745.0,Alta,Paquete,8.79,12.5,41.0,Comunidad Valenciana,Carretera
+2024-07-01,Bélgica,503140.0,Alta,Individual,8.73,16.4,32.7,Islas Baleares,Tren
+2024-06-01,Bélgica,267766.0,Media-Alta,Individual,8.49,19.4,26.5,Canarias,Carretera
+2024-05-01,Bélgica,258392.0,Media,Individual,9.07,17.7,4.2,Canarias,Tren
+2024-04-01,Bélgica,297193.0,Media,Paquete,8.55,24.9,18.4,Andalucía,Aeropuerto
+2024-03-01,Bélgica,201155.0,Media,Paquete,8.26,25.4,31.5,Islas Baleares,Aeropuerto
+2024-02-01,Bélgica,166836.0,Baja,Individual,8.11,19.1,33.0,Comunidad Valenciana,Aeropuerto
+2024-01-01,Bélgica,155367.0,Baja,Paquete,7.94,15.8,12.7,Comunidad Valenciana,Aeropuerto
+2023-12-01,Bélgica,170177.0,Baja,Individual,8.19,9.6,19.7,Comunidad Valenciana,Aeropuerto
+2023-11-01,Bélgica,186593.0,Baja,Individual,8.65,5.0,43.6,Islas Baleares,Aeropuerto
+2023-10-01,Bélgica,234169.0,Media,Individual,7.9,5.0,49.9,Comunidad Valenciana,Aeropuerto
+2023-09-01,Bélgica,280499.0,Media-Alta,Individual,8.72,6.8,37.2,Cataluña,Aeropuerto
+2023-08-01,Bélgica,331671.0,Alta,Paquete,8.88,9.5,38.3,Canarias,Aeropuerto
+2023-07-01,Bélgica,456408.0,Alta,Paquete,9.18,17.0,17.7,Islas Baleares,Aeropuerto
+2023-06-01,Bélgica,202407.0,Media-Alta,Paquete,8.54,21.0,14.8,Comunidad Valenciana,Aeropuerto
+2023-05-01,Bélgica,239007.0,Media,Individual,8.26,20.9,0.2,Islas Baleares,Aeropuerto
+2023-04-01,Bélgica,247704.0,Media,Paquete,8.53,22.1,17.2,Comunidad Valenciana,Aeropuerto
+2023-03-01,Bélgica,154350.0,Media,Individual,8.18,22.7,8.5,Cataluña,Aeropuerto
+2023-02-01,Bélgica,119766.0,Baja,Individual,8.72,21.6,26.3,Canarias,Aeropuerto
+2023-01-01,Bélgica,135932.0,Baja,Individual,8.5,14.9,34.7,Comunidad Valenciana,Aeropuerto
+2022-12-01,Bélgica,133634.0,Baja,Paquete,8.41,11.6,36.9,Comunidad Valenciana,Aeropuerto
+2022-11-01,Bélgica,141745.0,Baja,Individual,8.81,8.5,56.4,Islas Baleares,Aeropuerto
+2022-10-01,Bélgica,221570.0,Media,Individual,8.01,5.9,63.6,Cataluña,Aeropuerto
+2022-09-01,Bélgica,281751.0,Media-Alta,Individual,8.38,6.6,51.6,Cataluña,Aeropuerto
+2022-08-01,Bélgica,302063.0,Alta,Individual,8.65,10.4,44.0,Comunidad Valenciana,Carretera
+2022-07-01,Bélgica,421294.0,Alta,Individual,8.79,16.5,32.7,Comunidad Valenciana,Aeropuerto
+2022-06-01,Bélgica,213015.0,Media-Alta,Individual,8.82,19.3,8.7,Canarias,Aeropuerto
+2022-05-01,Bélgica,199090.0,Media,Paquete,8.77,23.5,9.1,Cataluña,Aeropuerto
+2022-04-01,Bélgica,230930.0,Media,Individual,7.78,26.6,10.9,Cataluña,Aeropuerto
+2022-03-01,Bélgica,144268.0,Media,Individual,8.38,22.8,4.3,Madrid,Aeropuerto
+2022-02-01,Bélgica,120461.0,Baja,Individual,8.63,21.1,30.1,Comunidad Valenciana,Aeropuerto
+2022-01-01,Bélgica,103568.0,Baja,Paquete,8.01,15.5,32.5,Comunidad Valenciana,Carretera
+2021-12-01,Bélgica,131835.0,Baja,Paquete,8.49,11.5,39.1,Comunidad Valenciana,Aeropuerto
+2021-11-01,Bélgica,150687.0,Baja,Individual,8.4,8.5,46.6,Islas Baleares,Aeropuerto
+2021-10-01,Bélgica,207983.0,Media,Individual,8.68,5.0,44.0,Comunidad Valenciana,Carretera
+2021-09-01,Bélgica,236285.0,Media-Alta,Paquete,8.77,6.9,45.5,Madrid,Aeropuerto
+2021-08-01,Bélgica,238814.0,Alta,Individual,9.0,14.7,38.9,Comunidad Valenciana,Carretera
+2021-07-01,Bélgica,257589.0,Alta,Individual,8.69,14.9,35.6,Andalucía,Aeropuerto
+2021-06-01,Bélgica,102035.0,Media-Alta,Individual,8.91,19.6,9.7,Comunidad Valenciana,Carretera
+2021-05-01,Bélgica,69112.0,Media,Paquete,8.4,24.1,26.3,Islas Baleares,Aeropuerto
+2021-04-01,Bélgica,24223.0,Media,Individual,8.69,23.0,28.9,Andalucía,Aeropuerto
+2021-03-01,Bélgica,12509.0,Media,Paquete,8.27,21.8,13.5,Islas Baleares,Carretera
+2021-02-01,Bélgica,9049.0,Baja,Individual,8.2,21.1,29.8,Cataluña,Aeropuerto
+2021-01-01,Bélgica,23971.0,Baja,Paquete,8.55,11.4,24.4,Cataluña,Aeropuerto
+2020-12-01,Bélgica,37902.0,Baja,Individual,8.75,5.0,36.6,Canarias,Aeropuerto
+2020-11-01,Bélgica,27709.0,Baja,Individual,9.33,7.0,34.4,Madrid,Aeropuerto
+2020-10-01,Bélgica,39997.0,Media,Individual,8.68,5.0,54.7,Canarias,Aeropuerto
+2020-09-01,Bélgica,39491.0,Media-Alta,Paquete,8.06,7.2,56.8,Andalucía,Aeropuerto
+2020-08-01,Bélgica,118043.0,Alta,Individual,9.1,13.3,44.6,Canarias,Aeropuerto
+2020-07-01,Bélgica,153256.0,Alta,Individual,8.4,15.6,52.7,Canarias,Aeropuerto
+2020-06-01,Bélgica,10225.0,Media-Alta,Individual,8.44,18.0,19.5,Madrid,Aeropuerto
+2020-05-01,Bélgica,0.0,Media,Paquete,8.79,20.6,16.8,Canarias,Carretera
+2020-04-01,Bélgica,0.0,Media,Individual,9.0,28.0,8.9,Cataluña,Aeropuerto
+2020-03-01,Bélgica,65045.0,Media,Paquete,8.66,26.8,33.8,Madrid,Aeropuerto
+2020-02-01,Bélgica,133042.0,Baja,Individual,8.42,21.7,16.5,Cataluña,Carretera
+2020-01-01,Bélgica,118701.0,Baja,Individual,8.44,11.9,38.7,Islas Baleares,Aeropuerto
+2019-12-01,Bélgica,129864.0,Baja,Paquete,8.64,10.0,26.6,Cataluña,Aeropuerto
+2019-11-01,Bélgica,139559.0,Baja,Individual,8.09,5.0,35.7,Canarias,Aeropuerto
+2019-10-01,Bélgica,183385.0,Media,Paquete,7.41,6.5,41.7,Islas Baleares,Carretera
+2019-09-01,Bélgica,267754.0,Media-Alta,Paquete,8.58,5.0,47.7,Madrid,Aeropuerto
+2019-08-01,Bélgica,306038.0,Alta,Paquete,8.33,6.5,42.7,Comunidad Valenciana,Aeropuerto
+2019-07-01,Bélgica,385358.0,Alta,Individual,8.32,14.5,29.5,Cataluña,Aeropuerto
+2019-06-01,Bélgica,245796.0,Media-Alta,Paquete,8.42,21.2,12.0,Comunidad Valenciana,Puerto
+2019-05-01,Bélgica,204034.0,Media,Individual,8.5,23.0,16.2,Andalucía,Aeropuerto
+2019-04-01,Bélgica,242254.0,Media,Paquete,8.98,25.2,18.8,Canarias,Aeropuerto
+2019-03-01,Bélgica,178684.0,Media,Individual,8.24,21.6,3.2,Canarias,Aeropuerto
+2019-02-01,Bélgica,122700.0,Baja,Individual,8.52,20.1,30.5,Cataluña,Aeropuerto
+2019-01-01,Bélgica,120461.0,Baja,Paquete,8.49,13.9,29.6,Islas Baleares,Aeropuerto
+2024-09-01,Francia,1095777.0,Media-Alta,Individual,7.92,7.2,51.2,Canarias,Carretera
+2024-08-01,Francia,2139022.0,Alta,Individual,8.68,10.0,41.8,Islas Baleares,Aeropuerto
+2024-07-01,Francia,1615540.0,Alta,Paquete,8.72,15.5,28.1,Andalucía,Aeropuerto
+2024-06-01,Francia,1015667.0,Media-Alta,Individual,8.17,19.8,23.4,Cataluña,Carretera
+2024-05-01,Francia,1284633.0,Media,Paquete,8.73,25.7,15.9,Canarias,Carretera
+2024-04-01,Francia,1158687.0,Media,Individual,8.32,24.2,5.5,Cataluña,Aeropuerto
+2024-03-01,Francia,791648.0,Media,Individual,8.21,22.5,7.9,Comunidad Valenciana,Aeropuerto
+2024-02-01,Francia,619218.0,Baja,Individual,8.23,18.5,21.1,Islas Baleares,Carretera
+2024-01-01,Francia,571774.0,Baja,Paquete,8.17,15.7,45.2,Cataluña,Carretera
+2023-12-01,Francia,818968.0,Baja,Paquete,8.54,11.8,46.3,Cataluña,Carretera
+2023-11-01,Francia,639773.0,Baja,Paquete,8.33,6.9,48.1,Islas Baleares,Tren
+2023-10-01,Francia,995832.0,Media,Paquete,8.66,5.0,41.4,Cataluña,Aeropuerto
+2023-09-01,Francia,958862.0,Media-Alta,Individual,8.52,6.1,33.4,Comunidad Valenciana,Carretera
+2023-08-01,Francia,1974734.0,Alta,Individual,8.66,7.9,61.5,Cataluña,Aeropuerto
+2023-07-01,Francia,1562150.0,Alta,Paquete,7.88,18.6,20.1,Islas Baleares,Carretera
+2023-06-01,Francia,909059.0,Media-Alta,Paquete,8.26,18.0,33.6,Canarias,Carretera
+2023-05-01,Francia,1149677.0,Media,Individual,7.9,29.8,22.3,Islas Baleares,Carretera
+2023-04-01,Francia,1045941.0,Media,Individual,8.43,25.6,14.0,Islas Baleares,Aeropuerto
+2023-03-01,Francia,600735.0,Media,Individual,8.33,26.7,0.1,Madrid,Aeropuerto
+2023-02-01,Francia,628078.0,Baja,Individual,8.31,20.8,11.5,Canarias,Carretera
+2023-01-01,Francia,484456.0,Baja,Individual,8.24,11.5,25.7,Cataluña,Aeropuerto
+2022-12-01,Francia,662604.0,Baja,Individual,8.36,10.9,57.9,Comunidad Valenciana,Aeropuerto
+2022-11-01,Francia,589080.0,Baja,Individual,8.37,5.0,46.2,Cataluña,Aeropuerto
+2022-10-01,Francia,915762.0,Media,Individual,8.55,5.0,49.5,Madrid,Puerto
+2022-09-01,Francia,915947.0,Media-Alta,Individual,8.47,5.8,34.6,Andalucía,Aeropuerto
+2022-08-01,Francia,1647034.0,Alta,Individual,9.05,7.1,35.8,Andalucía,Aeropuerto
+2022-07-01,Francia,1421122.0,Alta,Individual,8.79,14.3,38.3,Madrid,Aeropuerto
+2022-06-01,Francia,869316.0,Media-Alta,Individual,8.86,20.2,18.1,Canarias,Puerto
+2022-05-01,Francia,929452.0,Media,Individual,8.22,23.0,23.7,Andalucía,Aeropuerto
+2022-04-01,Francia,826837.0,Media,Individual,8.36,27.3,0.6,Madrid,Carretera
+2022-03-01,Francia,457400.0,Media,Paquete,8.57,22.4,23.3,Canarias,Carretera
+2022-02-01,Francia,514035.0,Baja,Individual,8.27,18.5,31.5,Cataluña,Carretera
+2022-01-01,Francia,347451.0,Baja,Individual,7.88,16.8,32.1,Cataluña,Carretera
+2021-12-01,Francia,530562.0,Baja,Individual,8.29,7.1,30.6,Madrid,Aeropuerto
+2021-11-01,Francia,498667.0,Baja,Paquete,7.84,5.0,43.5,Andalucía,Carretera
+2021-10-01,Francia,752882.0,Media,Individual,8.3,5.1,39.0,Canarias,Aeropuerto
+2021-09-01,Francia,689153.0,Media-Alta,Individual,8.69,9.9,41.7,Canarias,Aeropuerto
+2021-08-01,Francia,1292411.0,Alta,Individual,8.45,10.1,37.8,Comunidad Valenciana,Aeropuerto
+2021-07-01,Francia,875875.0,Alta,Paquete,8.65,17.0,21.7,Andalucía,Aeropuerto
+2021-06-01,Francia,438734.0,Media-Alta,Individual,8.57,20.8,17.8,Canarias,Aeropuerto
+2021-05-01,Francia,330343.0,Media,Individual,9.05,25.9,0.0,Comunidad Valenciana,Aeropuerto
+2021-04-01,Francia,115683.0,Media,Individual,8.78,20.0,8.8,Madrid,Aeropuerto
+2021-03-01,Francia,105698.0,Media,Individual,8.98,24.6,1.0,Comunidad Valenciana,Carretera
+2021-02-01,Francia,74937.0,Baja,Individual,8.29,22.7,19.6,Madrid,Carretera
+2021-01-01,Francia,117726.0,Baja,Individual,8.45,15.1,11.5,Cataluña,Carretera
+2020-12-01,Francia,163841.0,Baja,Individual,8.26,10.8,30.6,Andalucía,Aeropuerto
+2020-11-01,Francia,61360.0,Baja,Individual,8.19,6.4,41.9,Canarias,Carretera
+2020-10-01,Francia,381401.0,Media,Individual,8.76,5.0,53.8,Cataluña,Aeropuerto
+2020-09-01,Francia,390674.0,Media-Alta,Individual,7.87,8.9,53.8,Canarias,Carretera
+2020-08-01,Francia,865789.0,Alta,Individual,8.42,9.4,28.8,Madrid,Aeropuerto
+2020-07-01,Francia,596334.0,Alta,Individual,8.87,14.1,33.3,Canarias,Carretera
+2020-06-01,Francia,67859.0,Media-Alta,Paquete,7.68,22.9,32.7,Cataluña,Puerto
+2020-05-01,Francia,0.0,Media,Paquete,8.65,23.0,0.0,Cataluña,Carretera
+2020-04-01,Francia,0.0,Media,Individual,8.28,25.7,21.4,Cataluña,Aeropuerto
+2020-03-01,Francia,286821.0,Media,Individual,8.34,25.8,23.5,Madrid,Aeropuerto
+2020-02-01,Francia,592609.0,Baja,Individual,8.27,20.2,19.1,Islas Baleares,Carretera
+2020-01-01,Francia,481062.0,Baja,Individual,8.49,15.8,24.3,Canarias,Aeropuerto
+2019-12-01,Francia,552553.0,Baja,Individual,8.53,9.4,43.4,Cataluña,Aeropuerto
+2019-11-01,Francia,574259.0,Baja,Individual,8.38,7.8,38.6,Cataluña,Carretera
+2019-10-01,Francia,893084.0,Media,Individual,8.68,10.7,78.9,Comunidad Valenciana,Carretera
+2019-09-01,Francia,984031.0,Media-Alta,Individual,8.59,8.9,63.9,Cataluña,Carretera
+2019-08-01,Francia,2019857.0,Alta,Individual,8.71,9.8,46.8,Cataluña,Aeropuerto
+2019-07-01,Francia,1436108.0,Alta,Paquete,8.44,11.0,38.8,Madrid,Puerto
+2019-06-01,Francia,958217.0,Media-Alta,Individual,8.2,21.3,26.0,Canarias,Aeropuerto
+2019-05-01,Francia,1020302.0,Media,Individual,8.64,26.2,19.7,Andalucía,Aeropuerto
+2019-04-01,Francia,1019617.0,Media,Paquete,8.14,25.2,5.3,Comunidad Valenciana,Aeropuerto
+2019-03-01,Francia,676480.0,Media,Paquete,8.51,23.0,15.0,Canarias,Aeropuerto
+2019-02-01,Francia,566827.0,Baja,Individual,8.17,20.6,18.3,Cataluña,Aeropuerto
+2019-01-01,Francia,446062.0,Baja,Paquete,8.11,12.9,31.9,Madrid,Carretera
+2024-09-01,Irlanda,296195.0,Media-Alta,Individual,8.57,6.6,42.7,Canarias,Carretera
+2024-08-01,Irlanda,288913.0,Alta,Individual,9.21,8.3,38.2,Andalucía,Carretera
+2024-07-01,Irlanda,314420.0,Alta,Individual,8.66,13.0,32.0,Cataluña,Aeropuerto
+2024-06-01,Irlanda,329619.0,Media-Alta,Individual,8.8,19.8,16.9,Cataluña,Aeropuerto
+2024-05-01,Irlanda,290378.0,Media,Individual,8.17,22.8,1.7,Cataluña,Carretera
+2024-04-01,Irlanda,239152.0,Media,Paquete,8.79,25.7,6.0,Islas Baleares,Carretera
+2024-03-01,Irlanda,169109.0,Media,Individual,8.51,25.1,27.2,Cataluña,Aeropuerto
+2024-02-01,Irlanda,132954.0,Baja,Individual,8.75,20.0,18.6,Islas Baleares,Aeropuerto
+2024-01-01,Irlanda,146667.0,Baja,Individual,8.44,14.0,46.3,Canarias,Aeropuerto
+2023-12-01,Irlanda,124530.0,Baja,Paquete,8.29,9.3,29.6,Canarias,Aeropuerto
+2023-11-01,Irlanda,145107.0,Baja,Paquete,8.46,5.6,29.7,Madrid,Puerto
+2023-10-01,Irlanda,249985.0,Media,Individual,8.99,5.0,44.9,Cataluña,Carretera
+2023-09-01,Irlanda,266490.0,Media-Alta,Individual,9.26,5.0,44.0,Canarias,Puerto
+2023-08-01,Irlanda,282528.0,Alta,Paquete,8.95,12.2,33.8,Cataluña,Aeropuerto
+2023-07-01,Irlanda,299760.0,Alta,Individual,8.24,13.9,25.7,Madrid,Aeropuerto
+2023-06-01,Irlanda,284136.0,Media-Alta,Individual,8.88,20.7,12.5,Canarias,Carretera
+2023-05-01,Irlanda,240605.0,Media,Paquete,8.85,23.8,1.2,Cataluña,Aeropuerto
+2023-04-01,Irlanda,217559.0,Media,Individual,8.76,26.3,22.0,Comunidad Valenciana,Aeropuerto
+2023-03-01,Irlanda,139160.0,Media,Paquete,8.46,23.5,2.6,Cataluña,Aeropuerto
+2023-02-01,Irlanda,110658.0,Baja,Individual,7.81,19.8,20.7,Madrid,Aeropuerto
+2023-01-01,Irlanda,115585.0,Baja,Individual,7.81,13.3,28.8,Andalucía,Carretera
+2022-12-01,Irlanda,105208.0,Baja,Paquete,8.24,8.4,22.7,Madrid,Aeropuerto
+2022-11-01,Irlanda,124203.0,Baja,Individual,8.46,5.0,56.2,Canarias,Aeropuerto
+2022-10-01,Irlanda,217518.0,Media,Individual,8.77,6.8,59.8,Cataluña,Aeropuerto
+2022-09-01,Irlanda,233272.0,Media-Alta,Individual,8.87,5.2,44.9,Comunidad Valenciana,Aeropuerto
+2022-08-01,Irlanda,230202.0,Alta,Individual,8.53,13.9,35.6,Islas Baleares,Aeropuerto
+2022-07-01,Irlanda,279865.0,Alta,Paquete,8.98,13.7,32.0,Cataluña,Aeropuerto
+2022-06-01,Irlanda,241699.0,Media-Alta,Paquete,8.35,19.6,18.0,Cataluña,Aeropuerto
+2022-05-01,Irlanda,209181.0,Media,Individual,8.19,21.0,31.4,Cataluña,Aeropuerto
+2022-04-01,Irlanda,188898.0,Media,Individual,8.54,24.1,15.4,Canarias,Aeropuerto
+2022-03-01,Irlanda,109307.0,Media,Paquete,8.16,21.5,21.1,Andalucía,Carretera
+2022-02-01,Irlanda,79901.0,Baja,Individual,8.75,18.9,17.1,Canarias,Aeropuerto
+2022-01-01,Irlanda,70208.0,Baja,Individual,8.41,16.3,30.9,Andalucía,Aeropuerto
+2021-12-01,Irlanda,61658.0,Baja,Paquete,8.35,6.8,24.9,Canarias,Aeropuerto
+2021-11-01,Irlanda,78871.0,Baja,Paquete,8.59,5.7,40.6,Islas Baleares,Carretera
+2021-10-01,Irlanda,141892.0,Media,Paquete,8.86,5.0,49.5,Andalucía,Aeropuerto
+2021-09-01,Irlanda,130196.0,Media-Alta,Individual,8.67,5.0,48.0,Madrid,Carretera
+2021-08-01,Irlanda,111001.0,Alta,Individual,8.53,11.3,47.0,Canarias,Aeropuerto
+2021-07-01,Irlanda,62202.0,Alta,Paquete,9.02,18.1,35.9,Islas Baleares,Aeropuerto
+2021-06-01,Irlanda,15764.0,Media-Alta,Paquete,8.48,22.2,24.9,Cataluña,Aeropuerto
+2021-05-01,Irlanda,8064.0,Media,Paquete,8.63,27.0,22.0,Islas Baleares,Aeropuerto
+2021-04-01,Irlanda,5459.0,Media,Individual,8.51,25.2,12.4,Madrid,Aeropuerto
+2021-03-01,Irlanda,4061.0,Media,Paquete,8.49,21.3,14.6,Islas Baleares,Aeropuerto
+2021-02-01,Irlanda,3810.0,Baja,Individual,8.27,20.1,15.6,Canarias,Aeropuerto
+2021-01-01,Irlanda,8336.0,Baja,Individual,7.64,14.8,35.8,Madrid,Aeropuerto
+2020-12-01,Irlanda,12596.0,Baja,Paquete,8.44,5.9,19.6,Canarias,Aeropuerto
+2020-11-01,Irlanda,8448.0,Baja,Individual,8.08,5.0,46.9,Andalucía,Tren
+2020-10-01,Irlanda,15056.0,Media,Individual,8.47,6.3,54.3,Cataluña,Aeropuerto
+2020-09-01,Irlanda,15930.0,Media-Alta,Individual,8.95,5.0,43.8,Canarias,Aeropuerto
+2020-08-01,Irlanda,25569.0,Alta,Individual,8.78,11.8,36.4,Madrid,Carretera
+2020-07-01,Irlanda,31137.0,Alta,Individual,8.75,16.5,23.6,Islas Baleares,Aeropuerto
+2020-05-01,Irlanda,0.0,Media,Individual,8.66,23.1,24.3,Madrid,Aeropuerto
+2020-04-01,Irlanda,0.0,Media,Individual,8.68,25.5,5.5,Canarias,Aeropuerto
+2020-03-01,Irlanda,38104.0,Media,Individual,8.23,23.9,28.1,Canarias,Aeropuerto
+2020-02-01,Irlanda,96119.0,Baja,Individual,8.49,17.5,8.6,Islas Baleares,Carretera
+2020-01-01,Irlanda,85670.0,Baja,Paquete,8.5,15.9,41.9,Andalucía,Carretera
+2019-12-01,Irlanda,83633.0,Baja,Individual,8.38,8.4,36.2,Madrid,Aeropuerto
+2019-11-01,Irlanda,94334.0,Baja,Paquete,9.2,5.1,42.4,Cataluña,Carretera
+2019-10-01,Irlanda,195168.0,Media,Individual,8.7,5.0,58.3,Comunidad Valenciana,Aeropuerto
+2019-09-01,Irlanda,253182.0,Media-Alta,Individual,8.54,5.0,47.9,Cataluña,Carretera
+2019-08-01,Irlanda,266927.0,Alta,Paquete,8.22,6.5,43.2,Comunidad Valenciana,Aeropuerto
+2019-07-01,Irlanda,286096.0,Alta,Paquete,8.47,14.2,36.8,Madrid,Aeropuerto
+2019-06-01,Irlanda,282177.0,Media-Alta,Individual,8.72,18.8,20.1,Comunidad Valenciana,Aeropuerto
+2019-05-01,Irlanda,237509.0,Media,Individual,7.8,23.7,12.2,Comunidad Valenciana,Carretera
+2019-04-01,Irlanda,173919.0,Media,Individual,8.64,21.5,6.0,Islas Baleares,Aeropuerto
+2019-03-01,Irlanda,124441.0,Media,Paquete,7.88,22.2,0.9,Cataluña,Aeropuerto
+2019-02-01,Irlanda,90556.0,Baja,Individual,8.3,20.4,15.9,Cataluña,Aeropuerto
+2019-01-01,Irlanda,89650.0,Baja,Paquete,8.67,18.2,36.4,Comunidad Valenciana,Aeropuerto
+2024-09-01,Italia,505406.0,Media-Alta,Individual,8.34,6.7,51.3,Andalucía,Aeropuerto
+2024-08-01,Italia,788182.0,Alta,Individual,9.12,10.3,40.0,Andalucía,Aeropuerto
+2024-07-01,Italia,562695.0,Alta,Paquete,9.07,15.6,23.0,Comunidad Valenciana,Aeropuerto
+2024-06-01,Italia,513483.0,Media-Alta,Individual,8.6,18.8,31.1,Comunidad Valenciana,Aeropuerto
+2024-05-01,Italia,471053.0,Media,Individual,7.82,27.6,4.8,Madrid,Carretera
+2024-04-01,Italia,457624.0,Media,Paquete,8.29,22.0,0.0,Cataluña,Carretera
+2024-03-01,Italia,338591.0,Media,Individual,8.22,22.1,3.2,Cataluña,Aeropuerto
+2024-02-01,Italia,300428.0,Baja,Individual,8.45,18.3,25.1,Islas Baleares,Aeropuerto
+2024-01-01,Italia,325402.0,Baja,Individual,8.56,12.6,20.2,Comunidad Valenciana,Aeropuerto
+2023-12-01,Italia,353227.0,Baja,Paquete,7.9,11.4,28.9,Cataluña,Puerto
+2023-11-01,Italia,302456.0,Baja,Individual,8.96,7.9,36.4,Cataluña,Aeropuerto
+2023-10-01,Italia,404351.0,Media,Individual,8.37,5.0,36.1,Andalucía,Aeropuerto
+2023-09-01,Italia,431025.0,Media-Alta,Individual,8.84,7.8,35.6,Andalucía,Aeropuerto
+2023-08-01,Italia,742187.0,Alta,Paquete,9.07,7.7,44.7,Islas Baleares,Aeropuerto
+2023-07-01,Italia,543476.0,Alta,Paquete,8.07,17.9,12.1,Islas Baleares,Aeropuerto
+2023-06-01,Italia,428485.0,Media-Alta,Paquete,8.44,20.7,24.0,Canarias,Carretera
+2023-05-01,Italia,422069.0,Media,Individual,8.04,23.9,4.2,Canarias,Aeropuerto
+2023-04-01,Italia,387229.0,Media,Individual,8.3,28.8,0.0,Canarias,Aeropuerto
+2023-03-01,Italia,315773.0,Media,Individual,8.75,22.5,0.0,Cataluña,Aeropuerto
+2023-02-01,Italia,238635.0,Baja,Individual,8.53,20.1,21.1,Cataluña,Carretera
+2023-01-01,Italia,280836.0,Baja,Individual,8.11,15.4,34.4,Madrid,Aeropuerto
+2022-12-01,Italia,257314.0,Baja,Individual,8.43,11.8,36.7,Madrid,Aeropuerto
+2022-11-01,Italia,264514.0,Baja,Individual,8.55,6.7,43.5,Canarias,Aeropuerto
+2022-10-01,Italia,356677.0,Media,Individual,8.37,7.8,57.1,Cataluña,Aeropuerto
+2022-09-01,Italia,401483.0,Media-Alta,Paquete,8.62,5.9,44.9,Islas Baleares,Aeropuerto
+2022-08-01,Italia,640666.0,Alta,Individual,8.99,13.0,18.4,Madrid,Puerto
+2022-07-01,Italia,471298.0,Alta,Individual,8.28,12.2,15.6,Comunidad Valenciana,Aeropuerto
+2022-06-01,Italia,403785.0,Media-Alta,Paquete,9.3,18.6,9.3,Andalucía,Carretera
+2022-05-01,Italia,357729.0,Media,Individual,8.3,22.9,17.2,Andalucía,Aeropuerto
+2022-04-01,Italia,298122.0,Media,Paquete,8.74,27.0,2.7,Islas Baleares,Carretera
+2022-03-01,Italia,235869.0,Media,Paquete,8.54,22.9,3.6,Cataluña,Aeropuerto
+2022-02-01,Italia,166835.0,Baja,Paquete,8.44,15.8,1.3,Comunidad Valenciana,Aeropuerto
+2022-01-01,Italia,156847.0,Baja,Individual,8.84,8.2,17.1,Madrid,Aeropuerto
+2021-12-01,Italia,196774.0,Baja,Individual,8.45,9.6,30.3,Canarias,Aeropuerto
+2021-11-01,Italia,211377.0,Baja,Paquete,8.55,6.4,39.3,Cataluña,Aeropuerto
+2021-10-01,Italia,217969.0,Media,Paquete,8.79,9.7,42.1,Cataluña,Aeropuerto
+2021-09-01,Italia,237310.0,Media-Alta,Individual,8.31,5.0,54.4,Islas Baleares,Aeropuerto
+2021-08-01,Italia,309752.0,Alta,Paquete,8.86,13.1,54.9,Islas Baleares,Aeropuerto
+2021-07-01,Italia,220126.0,Alta,Individual,8.92,17.8,40.0,Islas Baleares,Aeropuerto
+2021-06-01,Italia,134073.0,Media-Alta,Paquete,8.91,21.3,21.0,Cataluña,Aeropuerto
+2021-05-01,Italia,62693.0,Media,Individual,8.11,23.7,21.1,Andalucía,Tren
+2021-04-01,Italia,40255.0,Media,Paquete,8.64,24.3,19.0,Islas Baleares,Carretera
+2021-03-01,Italia,30609.0,Media,Individual,8.24,24.6,6.3,Andalucía,Carretera
+2021-02-01,Italia,19660.0,Baja,Individual,8.48,20.3,2.8,Andalucía,Carretera
+2021-01-01,Italia,22824.0,Baja,Paquete,8.0,17.5,30.3,Cataluña,Aeropuerto
+2020-12-01,Italia,24875.0,Baja,Individual,8.04,13.0,27.9,Cataluña,Aeropuerto
+2020-11-01,Italia,21115.0,Baja,Paquete,8.38,5.9,39.9,Andalucía,Aeropuerto
+2020-10-01,Italia,37782.0,Media,Individual,8.46,5.0,56.1,Cataluña,Aeropuerto
+2020-09-01,Italia,59535.0,Media-Alta,Individual,8.49,5.0,36.9,Cataluña,Carretera
+2020-08-01,Italia,136812.0,Alta,Individual,8.02,11.2,46.4,Andalucía,Puerto
+2020-07-01,Italia,103190.0,Alta,Paquete,8.66,15.7,29.9,Islas Baleares,Aeropuerto
+2020-06-01,Italia,11355.0,Media-Alta,Individual,9.13,20.6,16.8,Cataluña,Aeropuerto
+2020-05-01,Italia,0.0,Media,Individual,8.21,19.6,9.5,Islas Baleares,Aeropuerto
+2020-04-01,Italia,0.0,Media,Individual,8.24,24.8,20.4,Islas Baleares,Aeropuerto
+2020-03-01,Italia,62417.0,Media,Individual,8.43,23.9,27.9,Cataluña,Carretera
+2020-02-01,Italia,255313.0,Baja,Individual,8.53,18.1,21.4,Canarias,Aeropuerto
+2020-01-01,Italia,235011.0,Baja,Paquete,8.3,13.7,57.2,Cataluña,Aeropuerto
+2019-12-01,Italia,305220.0,Baja,Individual,8.76,8.0,45.5,Cataluña,Aeropuerto
+2019-11-01,Italia,294195.0,Baja,Individual,8.87,6.8,53.5,Cataluña,Aeropuerto
+2019-10-01,Italia,323855.0,Media,Individual,8.56,5.0,53.8,Canarias,Aeropuerto
+2019-09-01,Italia,431263.0,Media-Alta,Paquete,8.61,8.7,36.4,Cataluña,Aeropuerto
+2019-08-01,Italia,671330.0,Alta,Individual,8.69,10.9,36.3,Islas Baleares,Aeropuerto
+2019-07-01,Italia,481829.0,Alta,Individual,8.85,14.9,27.4,Canarias,Aeropuerto
+2019-06-01,Italia,405887.0,Media-Alta,Individual,9.06,22.7,4.5,Andalucía,Aeropuerto
+2019-05-01,Italia,403175.0,Media,Individual,8.44,21.3,13.4,Comunidad Valenciana,Aeropuerto
+2019-04-01,Italia,388321.0,Media,Individual,8.3,26.3,7.6,Islas Baleares,Aeropuerto
+2019-03-01,Italia,320311.0,Media,Individual,8.49,24.0,10.1,Cataluña,Carretera
+2019-02-01,Italia,263903.0,Baja,Individual,8.34,24.8,11.1,Canarias,Aeropuerto
+2019-01-01,Italia,245224.0,Baja,Individual,8.26,16.0,20.1,Cataluña,Aeropuerto
+2024-09-01,Países Bajos,496917.0,Media-Alta,Paquete,8.85,7.3,60.7,Canarias,Aeropuerto
+2024-08-01,Países Bajos,582093.0,Alta,Individual,8.62,9.6,40.4,Islas Baleares,Aeropuerto
+2024-07-01,Países Bajos,698412.0,Alta,Paquete,8.74,15.3,22.4,Andalucía,Aeropuerto
+2024-06-01,Países Bajos,476432.0,Media-Alta,Individual,8.63,22.0,12.6,Andalucía,Aeropuerto
+2024-05-01,Países Bajos,505036.0,Media,Individual,8.76,22.9,24.8,Cataluña,Aeropuerto
+2024-04-01,Países Bajos,391704.0,Media,Individual,8.73,23.7,5.6,Cataluña,Aeropuerto
+2024-03-01,Países Bajos,265551.0,Media,Paquete,8.85,25.2,9.7,Madrid,Carretera
+2024-02-01,Países Bajos,248523.0,Baja,Individual,8.34,19.3,36.2,Canarias,Aeropuerto
+2024-01-01,Países Bajos,216489.0,Baja,Individual,8.51,14.8,25.6,Canarias,Aeropuerto
+2023-12-01,Países Bajos,205546.0,Baja,Paquete,8.69,11.7,35.6,Cataluña,Aeropuerto
+2023-11-01,Países Bajos,229622.0,Baja,Individual,8.51,5.0,62.0,Islas Baleares,Aeropuerto
+2023-10-01,Países Bajos,430650.0,Media,Individual,7.98,7.4,50.4,Cataluña,Aeropuerto
+2023-09-01,Países Bajos,472981.0,Media-Alta,Paquete,8.58,5.0,34.8,Cataluña,Tren
+2023-08-01,Países Bajos,555125.0,Alta,Individual,8.53,11.3,53.0,Andalucía,Carretera
+2023-07-01,Países Bajos,599314.0,Alta,Individual,9.03,14.3,11.6,Islas Baleares,Aeropuerto
+2023-06-01,Países Bajos,388378.0,Media-Alta,Individual,8.89,18.1,8.3,Islas Baleares,Aeropuerto
+2023-05-01,Países Bajos,436696.0,Media,Individual,8.81,24.1,12.0,Comunidad Valenciana,Aeropuerto
+2023-04-01,Países Bajos,375048.0,Media,Paquete,8.51,24.4,10.9,Madrid,Carretera
+2023-03-01,Países Bajos,239466.0,Media,Individual,8.5,22.4,15.0,Andalucía,Aeropuerto
+2023-02-01,Países Bajos,183275.0,Baja,Individual,8.48,17.8,25.5,Andalucía,Carretera
+2023-01-01,Países Bajos,204528.0,Baja,Paquete,8.1,13.9,25.5,Comunidad Valenciana,Aeropuerto
+2022-12-01,Países Bajos,166830.0,Baja,Paquete,7.81,8.0,37.0,Cataluña,Aeropuerto
+2022-11-01,Países Bajos,187890.0,Baja,Individual,8.3,5.4,41.8,Andalucía,Carretera
+2022-10-01,Países Bajos,351388.0,Media,Individual,8.02,5.0,58.8,Canarias,Aeropuerto
+2022-09-01,Países Bajos,415211.0,Media-Alta,Individual,8.05,5.7,55.3,Islas Baleares,Carretera
+2022-08-01,Países Bajos,526669.0,Alta,Individual,9.05,8.9,33.0,Islas Baleares,Aeropuerto
+2022-07-01,Países Bajos,559885.0,Alta,Individual,8.7,16.0,31.6,Cataluña,Aeropuerto
+2022-06-01,Países Bajos,385829.0,Media-Alta,Paquete,8.82,20.1,16.8,Madrid,Aeropuerto
+2022-05-01,Países Bajos,421683.0,Media,Individual,8.93,26.9,20.3,Islas Baleares,Aeropuerto
+2022-04-01,Países Bajos,318612.0,Media,Individual,8.72,18.5,0.0,Cataluña,Carretera
+2022-03-01,Países Bajos,222929.0,Media,Individual,8.33,25.0,19.7,Madrid,Aeropuerto
+2022-02-01,Países Bajos,180896.0,Baja,Paquete,8.61,16.8,25.4,Comunidad Valenciana,Aeropuerto
+2022-01-01,Países Bajos,185268.0,Baja,Individual,8.5,15.5,28.9,Comunidad Valenciana,Tren
+2021-12-01,Países Bajos,147840.0,Baja,Individual,8.34,10.7,37.1,Comunidad Valenciana,Aeropuerto
+2021-11-01,Países Bajos,172807.0,Baja,Individual,7.98,5.1,43.2,Canarias,Carretera
+2021-10-01,Países Bajos,366856.0,Media,Individual,8.25,5.0,40.1,Andalucía,Aeropuerto
+2021-09-01,Países Bajos,361606.0,Media-Alta,Individual,8.65,5.0,55.4,Cataluña,Aeropuerto
+2021-08-01,Países Bajos,414900.0,Alta,Individual,8.56,8.5,49.5,Islas Baleares,Aeropuerto
+2021-07-01,Países Bajos,292840.0,Alta,Paquete,9.19,14.5,32.2,Islas Baleares,Aeropuerto
+2021-06-01,Países Bajos,147337.0,Media-Alta,Individual,8.97,19.7,11.5,Cataluña,Aeropuerto
+2021-05-01,Países Bajos,72196.0,Media,Paquete,8.7,21.1,21.8,Cataluña,Aeropuerto
+2021-04-01,Países Bajos,26989.0,Media,Individual,8.68,29.5,0.0,Comunidad Valenciana,Aeropuerto
+2021-03-01,Países Bajos,18160.0,Media,Individual,8.44,23.6,17.2,Andalucía,Aeropuerto
+2021-02-01,Países Bajos,11409.0,Baja,Paquete,8.4,16.6,15.5,Islas Baleares,Aeropuerto
+2021-01-01,Países Bajos,15914.0,Baja,Individual,8.58,12.7,40.5,Islas Baleares,Aeropuerto
+2020-12-01,Países Bajos,21366.0,Baja,Individual,9.13,6.7,43.9,Andalucía,Aeropuerto
+2020-11-01,Países Bajos,18346.0,Baja,Individual,8.59,5.2,36.4,Cataluña,Puerto
+2020-10-01,Países Bajos,35237.0,Media,Individual,8.47,5.0,55.1,Islas Baleares,Aeropuerto
+2020-09-01,Países Bajos,33789.0,Media-Alta,Individual,8.94,5.8,46.3,Andalucía,Aeropuerto
+2020-08-01,Países Bajos,151213.0,Alta,Individual,8.59,10.4,40.2,Comunidad Valenciana,Aeropuerto
+2020-07-01,Países Bajos,191104.0,Alta,Individual,8.56,16.5,28.3,Andalucía,Aeropuerto
+2020-06-01,Países Bajos,13128.0,Media-Alta,Individual,8.99,22.2,9.1,Canarias,Carretera
+2020-05-01,Países Bajos,0.0,Media,Individual,8.74,23.9,24.0,Cataluña,Aeropuerto
+2020-04-01,Países Bajos,0.0,Media,Paquete,8.16,23.4,12.4,Comunidad Valenciana,Aeropuerto
+2020-03-01,Países Bajos,95360.0,Media,Individual,8.49,22.8,8.6,Islas Baleares,Aeropuerto
+2020-02-01,Países Bajos,195975.0,Baja,Individual,8.34,22.9,19.9,Cataluña,Aeropuerto
+2020-01-01,Países Bajos,162843.0,Baja,Individual,8.44,13.1,35.3,Cataluña,Aeropuerto
+2019-12-01,Países Bajos,163930.0,Baja,Paquete,8.22,11.9,28.9,Canarias,Aeropuerto
+2019-11-01,Países Bajos,182139.0,Baja,Individual,8.63,7.8,38.9,Islas Baleares,Aeropuerto
+2019-10-01,Países Bajos,337848.0,Media,Paquete,8.42,5.9,34.5,Andalucía,Aeropuerto
+2019-09-01,Países Bajos,375562.0,Media-Alta,Individual,8.32,7.4,37.6,Comunidad Valenciana,Aeropuerto
+2019-08-01,Países Bajos,454867.0,Alta,Individual,8.53,12.7,34.6,Madrid,Aeropuerto
+2019-07-01,Países Bajos,508260.0,Alta,Paquete,8.41,17.3,28.7,Madrid,Aeropuerto
+2019-06-01,Países Bajos,395792.0,Media-Alta,Individual,8.65,20.8,3.6,Canarias,Aeropuerto
+2019-05-01,Países Bajos,426675.0,Media,Individual,7.96,24.0,3.1,Andalucía,Aeropuerto
+2019-04-01,Países Bajos,296074.0,Media,Individual,8.69,25.6,0.0,Cataluña,Aeropuerto
+2019-03-01,Países Bajos,221834.0,Media,Individual,8.68,22.3,27.9,Andalucía,Aeropuerto
+2019-02-01,Países Bajos,168722.0,Baja,Paquete,8.85,17.7,1.3,Islas Baleares,Puerto
+2019-01-01,Países Bajos,152557.0,Baja,Individual,8.85,13.8,38.1,Cataluña,Tren
+2024-09-01,Países Bajos,438852.0,Media-Alta,Individual,8.88,5.5,63.7,Cataluña,Aeropuerto
+2024-08-01,Países Bajos,327070.0,Alta,Paquete,8.62,7.5,45.7,Comunidad Valenciana,Aeropuerto
+2024-07-01,Países Bajos,630516.0,Alta,Individual,9.21,16.7,23.6,Andalucía,Aeropuerto
+2024-06-01,Países Bajos,439083.0,Media-Alta,Individual,8.58,22.5,32.7,Comunidad Valenciana,Aeropuerto
+2024-05-01,Países Bajos,387165.0,Media,Individual,8.88,22.2,20.2,Andalucía,Aeropuerto
+2024-04-01,Países Bajos,405903.0,Media,Individual,8.41,23.8,6.1,Andalucía,Aeropuerto
+2024-03-01,Países Bajos,459173.0,Media,Individual,8.81,25.5,11.6,Cataluña,Aeropuerto
+2024-02-01,Países Bajos,374510.0,Baja,Paquete,8.29,20.1,0.0,Canarias,Aeropuerto
+2024-01-01,Países Bajos,370600.0,Baja,Individual,8.93,16.7,24.7,Cataluña,Aeropuerto
+2023-12-01,Países Bajos,342953.0,Baja,Paquete,8.55,12.9,40.1,Islas Baleares,Carretera
+2023-11-01,Países Bajos,405135.0,Baja,Individual,8.33,8.1,32.7,Cataluña,Aeropuerto
+2023-10-01,Países Bajos,505173.0,Media,Paquete,8.46,7.3,75.9,Cataluña,Aeropuerto
+2023-09-01,Países Bajos,405219.0,Media-Alta,Individual,8.36,5.8,37.5,Canarias,Aeropuerto
+2023-08-01,Países Bajos,330545.0,Alta,Individual,8.93,10.9,25.2,Islas Baleares,Aeropuerto
+2023-07-01,Países Bajos,584483.0,Alta,Individual,8.44,19.1,11.2,Islas Baleares,Aeropuerto
+2023-06-01,Países Bajos,394490.0,Media-Alta,Individual,8.44,19.5,19.0,Cataluña,Aeropuerto
+2023-05-01,Países Bajos,337942.0,Media,Individual,8.24,23.5,0.0,Canarias,Aeropuerto
+2023-04-01,Países Bajos,428941.0,Media,Individual,8.73,29.1,27.2,Canarias,Aeropuerto
+2023-03-01,Países Bajos,385016.0,Media,Individual,8.55,22.7,3.4,Canarias,Aeropuerto
+2023-02-01,Países Bajos,332516.0,Baja,Paquete,8.55,18.0,18.9,Cataluña,Aeropuerto
+2023-01-01,Países Bajos,343262.0,Baja,Paquete,8.02,14.9,36.8,Andalucía,Aeropuerto
+2022-12-01,Países Bajos,308131.0,Baja,Individual,8.44,9.0,40.6,Canarias,Aeropuerto
+2022-11-01,Países Bajos,363681.0,Baja,Individual,8.22,8.3,35.3,Islas Baleares,Aeropuerto
+2022-10-01,Países Bajos,482246.0,Media,Paquete,7.72,5.0,65.0,Islas Baleares,Aeropuerto
+2022-09-01,Países Bajos,381768.0,Media-Alta,Paquete,8.86,5.0,65.1,Canarias,Aeropuerto
+2022-08-01,Países Bajos,308597.0,Alta,Individual,8.94,11.8,26.8,Canarias,Aeropuerto
+2022-07-01,Países Bajos,577936.0,Alta,Individual,8.72,17.8,36.2,Cataluña,Puerto
+2022-06-01,Países Bajos,382829.0,Media-Alta,Paquete,8.81,19.4,37.9,Islas Baleares,Aeropuerto
+2022-05-01,Países Bajos,345792.0,Media,Paquete,8.21,26.0,6.9,Cataluña,Aeropuerto
+2022-04-01,Países Bajos,388057.0,Media,Paquete,8.43,24.2,10.1,Cataluña,Aeropuerto
+2022-03-01,Países Bajos,295894.0,Media,Individual,8.23,22.4,13.0,Canarias,Puerto
+2022-02-01,Países Bajos,248322.0,Baja,Individual,8.05,19.2,13.0,Comunidad Valenciana,Aeropuerto
+2022-01-01,Países Bajos,207972.0,Baja,Individual,8.65,15.1,37.6,Islas Baleares,Carretera
+2021-12-01,Países Bajos,241406.0,Baja,Paquete,8.62,10.3,46.8,Canarias,Aeropuerto
+2021-11-01,Países Bajos,285256.0,Baja,Individual,8.65,5.8,62.9,Comunidad Valenciana,Aeropuerto
+2021-10-01,Países Bajos,371608.0,Media,Paquete,8.39,6.0,49.8,Comunidad Valenciana,Aeropuerto
+2021-09-01,Países Bajos,235910.0,Media-Alta,Paquete,8.39,5.0,33.9,Islas Baleares,Aeropuerto
+2021-08-01,Países Bajos,174888.0,Alta,Individual,8.68,6.9,44.7,Canarias,Aeropuerto
+2021-07-01,Países Bajos,297318.0,Alta,Individual,8.92,14.1,33.8,Madrid,Aeropuerto
+2021-06-01,Países Bajos,111756.0,Media-Alta,Individual,9.16,22.2,0.0,Islas Baleares,Aeropuerto
+2021-05-01,Países Bajos,42166.0,Media,Individual,8.87,24.8,11.5,Andalucía,Puerto
+2021-04-01,Países Bajos,26846.0,Media,Individual,8.67,24.4,13.8,Islas Baleares,Aeropuerto
+2021-03-01,Países Bajos,21267.0,Media,Individual,8.69,24.8,18.6,Andalucía,Aeropuerto
+2021-02-01,Países Bajos,11824.0,Baja,Paquete,8.42,18.6,8.1,Madrid,Aeropuerto
+2021-01-01,Países Bajos,19409.0,Baja,Individual,8.38,14.8,22.4,Andalucía,Aeropuerto
+2020-12-01,Países Bajos,20348.0,Baja,Individual,8.17,9.4,15.1,Islas Baleares,Aeropuerto
+2020-11-01,Países Bajos,18036.0,Baja,Individual,8.67,5.7,47.3,Cataluña,Aeropuerto
+2020-10-01,Países Bajos,51090.0,Media,Individual,8.31,5.0,63.8,Canarias,Aeropuerto
+2020-09-01,Países Bajos,35833.0,Media-Alta,Individual,8.52,8.1,53.4,Andalucía,Carretera
+2020-08-01,Países Bajos,47819.0,Alta,Paquete,9.05,7.2,42.4,Cataluña,Aeropuerto
+2020-07-01,Países Bajos,94344.0,Alta,Individual,8.77,16.6,23.3,Cataluña,Aeropuerto
+2020-06-01,Países Bajos,4736.0,Media-Alta,Individual,8.53,21.5,23.1,Canarias,Aeropuerto
+2020-05-01,Países Bajos,0.0,Media,Individual,9.27,23.0,26.9,Madrid,Aeropuerto
+2020-04-01,Países Bajos,0.0,Media,Paquete,8.73,21.6,4.4,Canarias,Aeropuerto
+2020-03-01,Países Bajos,166244.0,Media,Individual,8.5,22.8,22.6,Islas Baleares,Aeropuerto
+2020-02-01,Países Bajos,396370.0,Baja,Paquete,8.34,17.3,35.0,Comunidad Valenciana,Aeropuerto
+2020-01-01,Países Bajos,340509.0,Baja,Paquete,8.51,18.0,34.1,Cataluña,Aeropuerto
+2019-12-01,Países Bajos,364141.0,Baja,Individual,8.33,9.2,42.0,Andalucía,Aeropuerto
+2019-11-01,Países Bajos,424650.0,Baja,Individual,8.39,8.6,35.3,Andalucía,Aeropuerto
+2019-10-01,Países Bajos,562666.0,Media,Individual,8.8,5.0,39.6,Canarias,Aeropuerto
+2019-09-01,Países Bajos,480401.0,Media-Alta,Individual,8.4,5.0,57.8,Islas Baleares,Carretera
+2019-08-01,Países Bajos,391171.0,Alta,Paquete,9.01,14.1,60.0,Cataluña,Aeropuerto
+2019-07-01,Países Bajos,662151.0,Alta,Individual,8.2,14.5,30.6,Islas Baleares,Aeropuerto
+2019-06-01,Países Bajos,497735.0,Media-Alta,Individual,9.05,22.2,19.6,Comunidad Valenciana,Aeropuerto
+2019-05-01,Países Bajos,431764.0,Media,Individual,8.28,25.2,31.8,Andalucía,Aeropuerto
+2019-04-01,Países Bajos,450295.0,Media,Individual,8.4,25.8,0.0,Cataluña,Aeropuerto
+2019-03-01,Países Bajos,493878.0,Media,Paquete,8.0,22.8,9.4,Canarias,Aeropuerto
+2019-02-01,Países Bajos,392980.0,Baja,Individual,8.23,20.4,8.3,Andalucía,Aeropuerto
+2019-01-01,Países Bajos,378280.0,Baja,Paquete,7.97,16.9,35.2,Andalucía,Aeropuerto
+2024-09-01,Portugal,303152.0,Media-Alta,Individual,8.63,10.7,51.2,Cataluña,Aeropuerto
+2024-08-01,Portugal,528894.0,Alta,Individual,9.16,5.0,37.0,Cataluña,Carretera
+2024-07-01,Portugal,370289.0,Alta,Paquete,8.12,15.7,37.6,Andalucía,Aeropuerto
+2024-06-01,Portugal,292641.0,Media-Alta,Paquete,8.35,21.7,25.8,Canarias,Carretera
+2024-05-01,Portugal,193660.0,Media,Paquete,8.55,25.6,10.4,Cataluña,Aeropuerto
+2024-04-01,Portugal,221554.0,Media,Individual,8.26,27.6,0.0,Comunidad Valenciana,Carretera
+2024-03-01,Portugal,194739.0,Media,Individual,8.68,23.8,6.8,Islas Baleares,Carretera
+2024-02-01,Portugal,161657.0,Baja,Individual,8.08,22.5,14.8,Canarias,Aeropuerto
+2024-01-01,Portugal,126236.0,Baja,Paquete,8.02,15.3,29.9,Islas Baleares,Carretera
+2023-12-01,Portugal,234831.0,Baja,Paquete,7.81,8.2,36.1,Madrid,Aeropuerto
+2023-11-01,Portugal,145035.0,Baja,Individual,9.22,5.0,37.2,Islas Baleares,Carretera
+2023-10-01,Portugal,174670.0,Media,Individual,8.83,5.0,31.4,Cataluña,Carretera
+2023-09-01,Portugal,281754.0,Media-Alta,Individual,8.74,7.9,51.4,Cataluña,Carretera
+2023-08-01,Portugal,460763.0,Alta,Paquete,8.42,12.9,37.4,Cataluña,Aeropuerto
+2023-07-01,Portugal,351766.0,Alta,Individual,8.86,17.1,31.9,Cataluña,Carretera
+2023-06-01,Portugal,244203.0,Media-Alta,Individual,8.89,19.9,19.4,Comunidad Valenciana,Carretera
+2023-05-01,Portugal,177409.0,Media,Individual,8.24,24.8,8.4,Comunidad Valenciana,Carretera
+2023-04-01,Portugal,253568.0,Media,Individual,8.94,25.5,12.6,Canarias,Aeropuerto
+2023-03-01,Portugal,172206.0,Media,Paquete,8.2,22.8,31.7,Comunidad Valenciana,Carretera
+2023-02-01,Portugal,166181.0,Baja,Individual,8.59,21.5,10.8,Comunidad Valenciana,Carretera
+2023-01-01,Portugal,140387.0,Baja,Individual,8.11,16.3,34.3,Canarias,Aeropuerto
+2022-12-01,Portugal,196106.0,Baja,Paquete,8.91,10.2,36.2,Canarias,Carretera
+2022-11-01,Portugal,125165.0,Baja,Individual,8.34,5.9,41.0,Cataluña,Carretera
+2022-10-01,Portugal,162431.0,Media,Individual,8.78,5.0,43.6,Andalucía,Aeropuerto
+2022-09-01,Portugal,259647.0,Media-Alta,Paquete,8.26,5.5,44.8,Cataluña,Carretera
+2022-08-01,Portugal,436687.0,Alta,Individual,8.35,11.1,28.3,Andalucía,Aeropuerto
+2022-07-01,Portugal,302240.0,Alta,Paquete,8.5,14.9,21.3,Madrid,Aeropuerto
+2022-06-01,Portugal,234782.0,Media-Alta,Individual,8.79,18.1,26.9,Cataluña,Aeropuerto
+2022-05-01,Portugal,149129.0,Media,Paquete,8.3,26.5,13.9,Madrid,Aeropuerto
+2022-04-01,Portugal,206044.0,Media,Individual,8.03,25.1,13.6,Cataluña,Carretera
+2022-03-01,Portugal,120769.0,Media,Individual,7.9,24.6,11.6,Cataluña,Carretera
+2022-02-01,Portugal,130212.0,Baja,Individual,8.42,21.6,22.7,Comunidad Valenciana,Aeropuerto
+2022-01-01,Portugal,92724.0,Baja,Individual,8.42,12.5,30.2,Madrid,Carretera
+2021-12-01,Portugal,95354.0,Baja,Paquete,8.34,9.4,31.8,Andalucía,Aeropuerto
+2021-11-01,Portugal,114682.0,Baja,Individual,8.27,5.0,53.5,Comunidad Valenciana,Aeropuerto
+2021-10-01,Portugal,146084.0,Media,Individual,8.01,5.0,73.4,Andalucía,Aeropuerto
+2021-09-01,Portugal,173206.0,Media-Alta,Individual,8.24,5.4,22.4,Andalucía,Carretera
+2021-08-01,Portugal,254475.0,Alta,Paquete,8.7,7.7,45.8,Islas Baleares,Aeropuerto
+2021-07-01,Portugal,149583.0,Alta,Paquete,8.53,12.8,30.8,Cataluña,Carretera
+2021-06-01,Portugal,105021.0,Media-Alta,Individual,8.57,22.7,22.4,Comunidad Valenciana,Aeropuerto
+2021-05-01,Portugal,59443.0,Media,Individual,8.58,24.9,15.3,Comunidad Valenciana,Aeropuerto
+2021-04-01,Portugal,24369.0,Media,Individual,8.15,28.5,13.4,Cataluña,Carretera
+2021-03-01,Portugal,22783.0,Media,Individual,8.6,22.5,14.4,Andalucía,Carretera
+2021-02-01,Portugal,19887.0,Baja,Paquete,8.55,18.0,19.4,Andalucía,Aeropuerto
+2021-01-01,Portugal,28762.0,Baja,Paquete,8.3,12.8,39.5,Cataluña,Carretera
+2020-12-01,Portugal,32978.0,Baja,Individual,7.96,9.0,29.0,Cataluña,Aeropuerto
+2020-11-01,Portugal,26201.0,Baja,Individual,8.52,5.5,33.8,Cataluña,Carretera
+2020-10-01,Portugal,43784.0,Media,Individual,8.74,5.1,50.6,Comunidad Valenciana,Carretera
+2020-09-01,Portugal,70442.0,Media-Alta,Individual,8.29,5.6,40.3,Madrid,Carretera
+2020-08-01,Portugal,111022.0,Alta,Paquete,8.58,9.2,56.2,Islas Baleares,Carretera
+2020-07-01,Portugal,90284.0,Alta,Individual,8.5,14.2,26.8,Andalucía,Aeropuerto
+2020-05-01,Portugal,0.0,Media,Paquete,8.7,21.0,7.3,Canarias,Carretera
+2020-04-01,Portugal,0.0,Media,Individual,8.37,25.4,7.5,Islas Baleares,Carretera
+2020-03-01,Portugal,68710.0,Media,Individual,8.1,26.8,0.0,Canarias,Aeropuerto
+2020-02-01,Portugal,181813.0,Baja,Individual,8.51,20.6,18.8,Canarias,Carretera
+2020-01-01,Portugal,129995.0,Baja,Individual,8.02,14.6,16.8,Cataluña,Aeropuerto
+2019-12-01,Portugal,136294.0,Baja,Paquete,8.36,11.9,34.5,Andalucía,Aeropuerto
+2019-11-01,Portugal,123350.0,Baja,Individual,8.46,8.7,49.5,Islas Baleares,Aeropuerto
+2019-10-01,Portugal,174778.0,Media,Paquete,8.3,5.0,52.3,Canarias,Aeropuerto
+2019-09-01,Portugal,256227.0,Media-Alta,Paquete,8.07,9.7,42.7,Canarias,Aeropuerto
+2019-08-01,Portugal,389692.0,Alta,Individual,8.87,9.5,43.2,Comunidad Valenciana,Aeropuerto
+2019-07-01,Portugal,256503.0,Alta,Individual,8.31,11.0,25.4,Islas Baleares,Tren
+2019-06-01,Portugal,229556.0,Media-Alta,Paquete,8.99,19.5,26.7,Canarias,Puerto
+2019-05-01,Portugal,159476.0,Media,Individual,8.43,26.3,11.4,Andalucía,Aeropuerto
+2019-04-01,Portugal,231213.0,Media,Paquete,8.75,25.7,0.5,Canarias,Carretera
+2019-03-01,Portugal,184721.0,Media,Individual,8.61,20.7,38.2,Canarias,Carretera
+2019-02-01,Portugal,145289.0,Baja,Paquete,8.51,16.9,20.7,Cataluña,Carretera
+2019-01-01,Portugal,141690.0,Baja,Individual,8.79,15.3,29.7,Islas Baleares,Aeropuerto
+2024-09-01,Reino Unido,2046444.0,Media-Alta,Individual,8.93,8.8,32.3,Cataluña,Puerto
+2024-08-01,Reino Unido,2119550.0,Alta,Paquete,8.35,10.5,41.1,Madrid,Aeropuerto
+2024-07-01,Reino Unido,2049671.0,Alta,Paquete,8.52,12.6,31.6,Comunidad Valenciana,Aeropuerto
+2024-06-01,Reino Unido,2140536.0,Media-Alta,Individual,9.5,20.2,7.1,Andalucía,Aeropuerto
+2024-05-01,Reino Unido,1913873.0,Media,Individual,8.69,21.6,21.5,Islas Baleares,Aeropuerto
+2024-04-01,Reino Unido,1464729.0,Media,Paquete,8.7,23.5,6.9,Cataluña,Aeropuerto
+2024-03-01,Reino Unido,1200915.0,Media,Paquete,8.72,23.8,23.6,Cataluña,Aeropuerto
+2024-02-01,Reino Unido,939712.0,Baja,Paquete,8.26,21.4,40.2,Madrid,Aeropuerto
+2024-01-01,Reino Unido,833416.0,Baja,Individual,9.08,16.7,39.0,Cataluña,Aeropuerto
+2023-12-01,Reino Unido,912563.0,Baja,Paquete,8.46,8.1,46.5,Cataluña,Carretera
+2023-11-01,Reino Unido,949322.0,Baja,Individual,8.74,7.3,43.9,Canarias,Aeropuerto
+2023-10-01,Reino Unido,1710770.0,Media,Individual,9.49,5.0,44.9,Canarias,Aeropuerto
+2023-09-01,Reino Unido,1943531.0,Media-Alta,Paquete,9.07,6.6,67.8,Cataluña,Aeropuerto
+2023-08-01,Reino Unido,2036999.0,Alta,Paquete,8.8,12.2,46.0,Canarias,Aeropuerto
+2023-07-01,Reino Unido,1998014.0,Alta,Individual,9.43,15.6,29.4,Andalucía,Aeropuerto
+2023-06-01,Reino Unido,1967965.0,Media-Alta,Individual,8.75,23.9,22.0,Comunidad Valenciana,Aeropuerto
+2023-05-01,Reino Unido,1809842.0,Media,Paquete,8.31,26.0,21.4,Islas Baleares,Aeropuerto
+2023-04-01,Reino Unido,1350327.0,Media,Individual,8.92,25.8,0.0,Canarias,Aeropuerto
+2023-03-01,Reino Unido,1059681.0,Media,Individual,9.09,21.6,5.1,Cataluña,Aeropuerto
+2023-02-01,Reino Unido,781118.0,Baja,Paquete,8.48,22.2,11.3,Islas Baleares,Aeropuerto
+2023-01-01,Reino Unido,742154.0,Baja,Paquete,8.65,14.5,32.1,Andalucía,Tren
+2022-12-01,Reino Unido,764766.0,Baja,Paquete,8.28,7.0,37.8,Comunidad Valenciana,Carretera
+2022-11-01,Reino Unido,826874.0,Baja,Individual,8.74,8.1,57.5,Cataluña,Aeropuerto
+2022-10-01,Reino Unido,1525460.0,Media,Individual,8.73,6.0,47.9,Madrid,Aeropuerto
+2022-09-01,Reino Unido,1794754.0,Media-Alta,Paquete,8.69,5.0,43.8,Canarias,Aeropuerto
+2022-08-01,Reino Unido,1840664.0,Alta,Individual,9.33,6.9,38.8,Islas Baleares,Aeropuerto
+2022-07-01,Reino Unido,1893450.0,Alta,Paquete,8.48,13.0,35.5,Comunidad Valenciana,Aeropuerto
+2022-06-01,Reino Unido,1809242.0,Media-Alta,Individual,8.79,19.5,24.4,Comunidad Valenciana,Puerto
+2022-05-01,Reino Unido,1651886.0,Media,Individual,8.33,20.6,19.1,Cataluña,Aeropuerto
+2022-04-01,Reino Unido,1245117.0,Media,Paquete,8.21,28.2,19.3,Canarias,Carretera
+2022-03-01,Reino Unido,826572.0,Media,Paquete,8.87,19.9,12.3,Cataluña,Aeropuerto
+2022-02-01,Reino Unido,578598.0,Baja,Paquete,8.76,20.9,25.8,Canarias,Aeropuerto
+2022-01-01,Reino Unido,364528.0,Baja,Paquete,8.83,14.0,31.4,Islas Baleares,Aeropuerto
+2021-12-01,Reino Unido,415656.0,Baja,Individual,8.55,10.8,43.1,Cataluña,Aeropuerto
+2021-11-01,Reino Unido,598624.0,Baja,Individual,8.65,7.2,43.4,Cataluña,Aeropuerto
+2021-10-01,Reino Unido,957025.0,Media,Paquete,8.6,5.0,48.7,Comunidad Valenciana,Aeropuerto
+2021-09-01,Reino Unido,788194.0,Media-Alta,Individual,8.69,5.0,48.9,Cataluña,Aeropuerto
+2021-08-01,Reino Unido,714013.0,Alta,Individual,9.06,10.2,49.0,Andalucía,Aeropuerto
+2021-07-01,Reino Unido,554277.0,Alta,Individual,9.73,13.0,40.3,Comunidad Valenciana,Aeropuerto
+2021-06-01,Reino Unido,142482.0,Media-Alta,Individual,8.61,20.6,38.7,Andalucía,Aeropuerto
+2021-05-01,Reino Unido,51128.0,Media,Paquete,8.18,25.7,0.0,Islas Baleares,Aeropuerto
+2021-04-01,Reino Unido,23860.0,Media,Individual,8.27,23.2,12.1,Andalucía,Aeropuerto
+2021-03-01,Reino Unido,19748.0,Media,Individual,9.1,25.2,20.9,Canarias,Aeropuerto
+2021-02-01,Reino Unido,14367.0,Baja,Individual,8.99,20.8,28.4,Canarias,Tren
+2021-01-01,Reino Unido,23260.0,Baja,Individual,8.75,18.6,29.2,Andalucía,Carretera
+2020-12-01,Reino Unido,109320.0,Baja,Individual,9.03,10.4,44.2,Cataluña,Aeropuerto
+2020-11-01,Reino Unido,85351.0,Baja,Individual,8.73,5.7,30.2,Islas Baleares,Aeropuerto
+2020-10-01,Reino Unido,148009.0,Media,Individual,8.6,5.0,57.8,Canarias,Aeropuerto
+2020-09-01,Reino Unido,162489.0,Media-Alta,Individual,9.0,8.2,42.6,Islas Baleares,Aeropuerto
+2020-08-01,Reino Unido,254236.0,Alta,Individual,8.47,10.8,31.9,Madrid,Carretera
+2020-07-01,Reino Unido,379039.0,Alta,Paquete,9.23,12.0,8.6,Cataluña,Carretera
+2020-06-01,Reino Unido,9436.0,Media-Alta,Individual,8.69,18.0,23.1,Andalucía,Aeropuerto
+2020-05-01,Reino Unido,0.0,Media,Paquete,8.43,21.7,7.3,Andalucía,Aeropuerto
+2020-04-01,Reino Unido,0.0,Media,Paquete,9.06,26.7,9.6,Comunidad Valenciana,Aeropuerto
+2020-03-01,Reino Unido,399515.0,Media,Paquete,8.97,23.5,0.7,Canarias,Aeropuerto
+2020-02-01,Reino Unido,888521.0,Baja,Individual,9.02,17.4,23.5,Andalucía,Aeropuerto
+2020-01-01,Reino Unido,714288.0,Baja,Individual,9.01,18.8,42.8,Canarias,Aeropuerto
+2019-12-01,Reino Unido,786044.0,Baja,Paquete,8.34,9.0,37.4,Comunidad Valenciana,Carretera
+2019-11-01,Reino Unido,872392.0,Baja,Individual,9.29,5.2,31.0,Cataluña,Aeropuerto
+2019-10-01,Reino Unido,1643636.0,Media,Paquete,8.79,5.0,53.3,Comunidad Valenciana,Aeropuerto
+2019-09-01,Reino Unido,2094377.0,Media-Alta,Paquete,8.53,7.9,40.5,Cataluña,Aeropuerto
+2019-08-01,Reino Unido,2172298.0,Alta,Individual,8.98,10.1,40.4,Cataluña,Carretera
+2019-07-01,Reino Unido,2154808.0,Alta,Individual,8.79,13.1,23.2,Canarias,Aeropuerto
+2019-06-01,Reino Unido,2074006.0,Media-Alta,Individual,8.94,21.8,17.6,Cataluña,Aeropuerto
+2019-05-01,Reino Unido,1950529.0,Media,Individual,8.77,22.0,4.8,Cataluña,Aeropuerto
+2019-04-01,Reino Unido,1461671.0,Media,Individual,8.86,26.5,8.6,Islas Baleares,Aeropuerto
+2019-03-01,Reino Unido,1109683.0,Media,Individual,9.07,28.1,24.9,Comunidad Valenciana,Aeropuerto
+2019-02-01,Reino Unido,885676.0,Baja,Paquete,8.49,19.8,0.6,Andalucía,Carretera
+2019-01-01,Reino Unido,807362.0,Baja,Individual,8.57,16.0,40.4,Islas Baleares,Puerto
+2022-02-01,Rusia,12965.0,Baja,Individual,8.58,22.5,18.7,Islas Baleares,Aeropuerto
+2022-01-01,Rusia,18563.0,Baja,Individual,8.21,17.7,19.6,Madrid,Aeropuerto
+2021-12-01,Rusia,15886.0,Baja,Paquete,8.2,6.8,56.3,Comunidad Valenciana,Aeropuerto
+2021-11-01,Rusia,13739.0,Baja,Individual,8.47,8.8,64.3,Cataluña,Aeropuerto
+2021-10-01,Rusia,20385.0,Media,Paquete,8.4,5.2,39.8,Islas Baleares,Aeropuerto
+2021-09-01,Rusia,21095.0,Media-Alta,Paquete,8.47,5.1,45.3,Andalucía,Carretera
+2021-08-01,Rusia,14802.0,Alta,Paquete,8.94,11.4,38.3,Andalucía,Aeropuerto
+2021-07-01,Rusia,19276.0,Alta,Individual,8.51,18.5,28.2,Islas Baleares,Aeropuerto
+2021-06-01,Rusia,11480.0,Media-Alta,Individual,9.05,16.6,24.5,Comunidad Valenciana,Carretera
+2021-05-01,Rusia,4374.0,Media,Individual,8.22,23.8,10.4,Andalucía,Aeropuerto
+2021-03-01,Rusia,4260.0,Media,Individual,8.49,22.8,0.0,Andalucía,Carretera
+2021-02-01,Rusia,2532.0,Baja,Individual,8.68,17.1,22.0,Andalucía,Aeropuerto
+2021-01-01,Rusia,3353.0,Baja,Paquete,8.21,14.3,30.6,Madrid,Aeropuerto
+2020-12-01,Rusia,3882.0,Baja,Paquete,8.41,10.3,36.4,Comunidad Valenciana,Aeropuerto
+2020-11-01,Rusia,2426.0,Baja,Paquete,8.69,7.3,40.3,Comunidad Valenciana,Aeropuerto
+2020-10-01,Rusia,4563.0,Media,Paquete,8.35,5.0,39.5,Islas Baleares,Carretera
+2020-09-01,Rusia,4000.0,Media-Alta,Individual,8.76,6.0,59.0,Cataluña,Carretera
+2020-05-01,Rusia,0.0,Media,Individual,8.16,23.7,13.1,Comunidad Valenciana,Aeropuerto
+2020-04-01,Rusia,0.0,Media,Paquete,9.21,25.7,4.0,Andalucía,Aeropuerto
+2020-03-01,Rusia,21724.0,Media,Individual,8.23,25.4,9.6,Cataluña,Aeropuerto
+2020-02-01,Rusia,46340.0,Baja,Individual,8.19,19.7,21.3,Canarias,Aeropuerto
+2020-01-01,Rusia,63712.0,Baja,Individual,8.43,12.2,31.7,Islas Baleares,Aeropuerto
+2019-12-01,Rusia,52703.0,Baja,Individual,8.08,7.8,63.1,Islas Baleares,Aeropuerto
+2019-11-01,Rusia,53368.0,Baja,Individual,8.17,7.6,53.4,Canarias,Aeropuerto
+2019-10-01,Rusia,104958.0,Media,Individual,8.99,5.0,56.7,Comunidad Valenciana,Carretera
+2019-09-01,Rusia,165380.0,Media-Alta,Individual,8.75,6.5,55.0,Islas Baleares,Carretera
+2019-08-01,Rusia,177019.0,Alta,Individual,9.19,7.6,43.3,Comunidad Valenciana,Aeropuerto
+2019-07-01,Rusia,183441.0,Alta,Paquete,8.5,15.6,34.8,Comunidad Valenciana,Aeropuerto
+2019-06-01,Rusia,182043.0,Media-Alta,Paquete,8.27,22.5,15.4,Cataluña,Aeropuerto
+2019-05-01,Rusia,123984.0,Media,Paquete,8.0,24.3,21.9,Islas Baleares,Aeropuerto
+2019-04-01,Rusia,83726.0,Media,Individual,8.06,26.5,11.6,Cataluña,Aeropuerto
+2019-03-01,Rusia,70851.0,Media,Individual,8.61,26.4,1.5,Cataluña,Aeropuerto
+2019-02-01,Rusia,49956.0,Baja,Paquete,8.4,21.0,13.9,Cataluña,Aeropuerto
+2019-01-01,Rusia,66650.0,Baja,Paquete,8.08,15.6,37.0,Andalucía,Carretera
+2024-09-01,Suiza,210747.0,Media-Alta,Paquete,8.6,11.1,21.2,Andalucía,Aeropuerto
+2024-08-01,Suiza,198373.0,Alta,Individual,8.89,5.0,57.3,Canarias,Carretera
+2024-07-01,Suiza,305304.0,Alta,Paquete,8.71,16.5,45.4,Islas Baleares,Aeropuerto
+2024-06-01,Suiza,211768.0,Media-Alta,Paquete,8.87,21.5,18.7,Andalucía,Aeropuerto
+2024-05-01,Suiza,210803.0,Media,Paquete,8.39,23.5,18.2,Comunidad Valenciana,Aeropuerto
+2024-04-01,Suiza,216209.0,Media,Individual,8.38,25.1,17.5,Cataluña,Aeropuerto
+2024-03-01,Suiza,123626.0,Media,Individual,8.4,22.9,17.2,Canarias,Aeropuerto
+2024-02-01,Suiza,88253.0,Baja,Paquete,8.43,19.8,10.1,Madrid,Aeropuerto
+2024-01-01,Suiza,111913.0,Baja,Paquete,8.84,13.3,38.9,Canarias,Aeropuerto
+2023-12-01,Suiza,113652.0,Baja,Individual,8.56,9.6,33.0,Comunidad Valenciana,Aeropuerto
+2023-11-01,Suiza,106121.0,Baja,Paquete,8.18,7.3,51.7,Canarias,Aeropuerto
+2023-10-01,Suiza,238006.0,Media,Paquete,8.19,5.0,39.4,Islas Baleares,Aeropuerto
+2023-09-01,Suiza,210850.0,Media-Alta,Individual,8.23,9.8,39.6,Cataluña,Aeropuerto
+2023-08-01,Suiza,210547.0,Alta,Individual,8.87,10.7,45.9,Islas Baleares,Aeropuerto
+2023-07-01,Suiza,254900.0,Alta,Paquete,8.89,15.1,41.5,Andalucía,Carretera
+2023-06-01,Suiza,182361.0,Media-Alta,Paquete,8.99,19.8,45.9,Canarias,Aeropuerto
+2023-05-01,Suiza,186270.0,Media,Paquete,8.75,22.8,24.9,Cataluña,Aeropuerto
+2023-04-01,Suiza,215036.0,Media,Individual,8.86,23.7,0.0,Cataluña,Aeropuerto
+2023-03-01,Suiza,98363.0,Media,Individual,8.43,25.9,0.0,Islas Baleares,Aeropuerto
+2023-02-01,Suiza,101351.0,Baja,Individual,8.41,20.7,0.0,Madrid,Carretera
+2023-01-01,Suiza,84740.0,Baja,Individual,8.37,18.1,25.4,Canarias,Aeropuerto
+2022-12-01,Suiza,75126.0,Baja,Individual,8.54,12.1,42.8,Madrid,Aeropuerto
+2022-11-01,Suiza,81883.0,Baja,Individual,8.18,10.3,50.7,Islas Baleares,Carretera
+2022-10-01,Suiza,222471.0,Media,Individual,8.82,5.0,55.6,Andalucía,Aeropuerto
+2022-09-01,Suiza,169936.0,Media-Alta,Paquete,8.54,8.0,50.6,Canarias,Aeropuerto
+2022-08-01,Suiza,168263.0,Alta,Paquete,9.1,13.3,55.3,Islas Baleares,Aeropuerto
+2022-07-01,Suiza,235727.0,Alta,Paquete,9.03,13.5,23.2,Comunidad Valenciana,Aeropuerto
+2022-06-01,Suiza,153173.0,Media-Alta,Paquete,8.28,19.3,15.2,Comunidad Valenciana,Carretera
+2022-05-01,Suiza,157008.0,Media,Individual,8.38,25.3,0.0,Andalucía,Aeropuerto
+2022-04-01,Suiza,177137.0,Media,Paquete,8.34,23.9,13.9,Cataluña,Carretera
+2022-03-01,Suiza,82987.0,Media,Individual,8.91,22.8,16.1,Comunidad Valenciana,Aeropuerto
+2022-02-01,Suiza,70929.0,Baja,Individual,8.61,13.5,41.0,Cataluña,Aeropuerto
+2022-01-01,Suiza,60093.0,Baja,Individual,8.41,15.3,9.0,Cataluña,Aeropuerto
+2021-12-01,Suiza,59506.0,Baja,Individual,8.35,12.5,42.5,Islas Baleares,Aeropuerto
+2021-11-01,Suiza,66664.0,Baja,Individual,8.83,5.8,49.4,Comunidad Valenciana,Aeropuerto
+2021-10-01,Suiza,188883.0,Media,Paquete,8.39,5.0,56.5,Islas Baleares,Aeropuerto
+2021-09-01,Suiza,119944.0,Media-Alta,Individual,8.38,6.8,32.9,Madrid,Aeropuerto
+2021-08-01,Suiza,143186.0,Alta,Paquete,8.9,10.0,19.5,Cataluña,Aeropuerto
+2021-07-01,Suiza,156790.0,Alta,Individual,8.88,13.9,27.1,Cataluña,Aeropuerto
+2021-06-01,Suiza,73006.0,Media-Alta,Individual,8.57,18.7,30.7,Cataluña,Aeropuerto
+2021-05-01,Suiza,64866.0,Media,Paquete,8.39,22.9,16.8,Cataluña,Aeropuerto
+2021-04-01,Suiza,38362.0,Media,Individual,8.26,25.4,9.1,Islas Baleares,Aeropuerto
+2021-03-01,Suiza,12352.0,Media,Individual,8.39,24.1,25.4,Comunidad Valenciana,Aeropuerto
+2021-02-01,Suiza,6673.0,Baja,Individual,8.57,19.6,16.2,Cataluña,Aeropuerto
+2021-01-01,Suiza,15477.0,Baja,Paquete,8.48,14.2,41.7,Canarias,Aeropuerto
+2020-12-01,Suiza,17206.0,Baja,Individual,8.63,12.0,46.2,Islas Baleares,Aeropuerto
+2020-11-01,Suiza,12990.0,Baja,Individual,8.1,7.2,37.8,Cataluña,Aeropuerto
+2020-10-01,Suiza,15290.0,Media,Individual,8.77,5.0,44.5,Andalucía,Aeropuerto
+2020-09-01,Suiza,17860.0,Media-Alta,Individual,7.51,5.0,41.7,Islas Baleares,Aeropuerto
+2020-08-01,Suiza,47293.0,Alta,Individual,8.49,8.8,22.1,Islas Baleares,Puerto
+2020-07-01,Suiza,82714.0,Alta,Individual,8.68,13.5,44.4,Cataluña,Puerto
+2020-06-01,Suiza,3970.0,Media-Alta,Individual,8.33,21.5,1.2,Canarias,Aeropuerto
+2020-05-01,Suiza,0.0,Media,Paquete,8.86,24.6,11.4,Cataluña,Carretera
+2020-04-01,Suiza,0.0,Media,Individual,8.34,23.4,19.9,Islas Baleares,Aeropuerto
+2020-03-01,Suiza,37985.0,Media,Individual,8.0,22.7,1.8,Islas Baleares,Aeropuerto
+2020-02-01,Suiza,85426.0,Baja,Paquete,8.31,24.7,24.1,Canarias,Aeropuerto
+2020-01-01,Suiza,76339.0,Baja,Individual,8.58,15.7,18.7,Islas Baleares,Aeropuerto
+2019-12-01,Suiza,88968.0,Baja,Paquete,8.73,12.6,69.5,Cataluña,Aeropuerto
+2019-11-01,Suiza,91331.0,Baja,Individual,8.19,6.1,48.9,Canarias,Carretera
+2019-10-01,Suiza,210047.0,Media,Paquete,8.17,5.0,42.6,Canarias,Aeropuerto
+2019-09-01,Suiza,199550.0,Media-Alta,Paquete,8.45,5.5,44.8,Madrid,Aeropuerto
+2019-08-01,Suiza,196316.0,Alta,Individual,7.88,8.7,42.7,Canarias,Aeropuerto
+2019-07-01,Suiza,247378.0,Alta,Individual,8.6,16.5,31.7,Cataluña,Carretera
+2019-06-01,Suiza,190718.0,Media-Alta,Paquete,8.81,21.8,18.7,Andalucía,Aeropuerto
+2019-05-01,Suiza,131098.0,Media,Individual,7.99,26.9,9.1,Cataluña,Aeropuerto
+2019-04-01,Suiza,175457.0,Media,Individual,8.26,22.3,10.2,Canarias,Carretera
+2019-03-01,Suiza,114059.0,Media,Individual,8.9,23.3,0.0,Comunidad Valenciana,Aeropuerto
+2019-02-01,Suiza,88945.0,Baja,Paquete,7.93,22.0,33.1,Madrid,Aeropuerto
+2019-01-01,Suiza,78000.0,Baja,Individual,8.67,14.7,28.9,Islas Baleares,Aeropuerto
+2024-09-01,Suiza,956833.0,Media-Alta,Paquete,8.13,7.3,48.1,Islas Baleares,Aeropuerto
+2024-08-01,Suiza,938814.0,Alta,Paquete,9.0,9.1,38.6,Andalucía,Carretera
+2024-07-01,Suiza,926685.0,Alta,Paquete,8.84,18.4,16.9,Andalucía,Aeropuerto
+2024-06-01,Suiza,852343.0,Media-Alta,Individual,8.84,20.3,13.2,Andalucía,Aeropuerto
+2024-05-01,Suiza,858416.0,Media,Paquete,8.82,24.7,3.9,Islas Baleares,Aeropuerto
+2024-04-01,Suiza,769465.0,Media,Individual,8.07,22.7,0.0,Islas Baleares,Aeropuerto
+2024-03-01,Suiza,724082.0,Media,Individual,8.4,26.5,16.2,Madrid,Aeropuerto
+2024-02-01,Suiza,572626.0,Baja,Individual,8.56,22.7,20.7,Madrid,Aeropuerto
+2024-01-01,Suiza,538928.0,Baja,Individual,8.77,15.4,33.3,Cataluña,Aeropuerto
+2023-12-01,Suiza,522254.0,Baja,Paquete,8.53,7.8,26.4,Islas Baleares,Aeropuerto
+2023-11-01,Suiza,535465.0,Baja,Individual,8.38,5.9,60.6,Cataluña,Aeropuerto
+2023-10-01,Suiza,712863.0,Media,Paquete,8.35,7.4,47.4,Andalucía,Aeropuerto
+2023-09-01,Suiza,791702.0,Media-Alta,Individual,8.23,5.0,48.9,Cataluña,Aeropuerto
+2023-08-01,Suiza,835635.0,Alta,Paquete,8.58,11.3,29.2,Cataluña,Aeropuerto
+2023-07-01,Suiza,845067.0,Alta,Paquete,8.4,15.6,31.7,Islas Baleares,Aeropuerto
+2023-06-01,Suiza,714999.0,Media-Alta,Individual,9.04,22.7,24.6,Cataluña,Aeropuerto
+2023-05-01,Suiza,729806.0,Media,Paquete,8.07,25.4,18.7,Canarias,Aeropuerto
+2023-04-01,Suiza,681565.0,Media,Individual,8.66,24.7,9.9,Madrid,Aeropuerto
+2023-03-01,Suiza,546555.0,Media,Individual,8.88,25.7,10.5,Canarias,Aeropuerto
+2023-02-01,Suiza,500940.0,Baja,Individual,8.8,19.7,32.6,Cataluña,Aeropuerto
+2023-01-01,Suiza,478368.0,Baja,Individual,8.02,16.4,14.0,Comunidad Valenciana,Aeropuerto
+2022-12-01,Suiza,404824.0,Baja,Individual,8.33,10.4,22.0,Islas Baleares,Aeropuerto
+2022-11-01,Suiza,429285.0,Baja,Paquete,8.73,5.0,48.9,Cataluña,Aeropuerto
+2022-10-01,Suiza,623625.0,Media,Individual,8.13,5.8,46.0,Islas Baleares,Carretera
+2022-09-01,Suiza,704789.0,Media-Alta,Individual,8.71,5.3,39.4,Cataluña,Aeropuerto
+2022-08-01,Suiza,719280.0,Alta,Individual,8.51,11.2,36.4,Canarias,Aeropuerto
+2022-07-01,Suiza,735318.0,Alta,Individual,9.0,13.8,36.4,Andalucía,Aeropuerto
+2022-06-01,Suiza,652092.0,Media-Alta,Individual,8.74,20.3,6.8,Cataluña,Aeropuerto
+2022-05-01,Suiza,646664.0,Media,Paquete,8.96,22.1,10.3,Andalucía,Aeropuerto
+2022-04-01,Suiza,561714.0,Media,Individual,8.81,27.9,0.0,Islas Baleares,Aeropuerto
+2022-03-01,Suiza,426426.0,Media,Paquete,7.83,23.0,13.7,Madrid,Puerto
+2022-02-01,Suiza,337723.0,Baja,Individual,8.77,19.9,14.0,Comunidad Valenciana,Aeropuerto
+2022-01-01,Suiza,304034.0,Baja,Individual,8.63,13.7,30.7,Islas Baleares,Aeropuerto
+2021-12-01,Suiza,279355.0,Baja,Paquete,8.52,10.5,45.1,Cataluña,Puerto
+2021-11-01,Suiza,305597.0,Baja,Individual,8.58,6.0,45.4,Comunidad Valenciana,Carretera
+2021-10-01,Suiza,396870.0,Media,Individual,8.1,5.5,62.9,Islas Baleares,Aeropuerto
+2021-09-01,Suiza,436605.0,Media-Alta,Individual,8.47,5.7,43.4,Cataluña,Aeropuerto
+2021-08-01,Suiza,465719.0,Alta,Individual,8.68,9.3,32.7,Islas Baleares,Aeropuerto
+2021-07-01,Suiza,434998.0,Alta,Paquete,8.64,12.1,42.8,Canarias,Aeropuerto
+2021-06-01,Suiza,246424.0,Media-Alta,Individual,8.52,19.7,2.4,Madrid,Aeropuerto
+2021-05-01,Suiza,150346.0,Media,Individual,8.32,21.5,7.9,Andalucía,Aeropuerto
+2021-04-01,Suiza,95486.0,Media,Individual,8.39,23.7,15.8,Andalucía,Aeropuerto
+2021-03-01,Suiza,70668.0,Media,Individual,8.51,20.7,14.4,Cataluña,Aeropuerto
+2021-02-01,Suiza,47808.0,Baja,Individual,7.82,19.9,17.5,Canarias,Aeropuerto
+2021-01-01,Suiza,61573.0,Baja,Individual,7.81,15.8,25.8,Comunidad Valenciana,Carretera
+2020-12-01,Suiza,67957.0,Baja,Individual,8.27,10.8,35.8,Cataluña,Aeropuerto
+2020-11-01,Suiza,57742.0,Baja,Paquete,8.21,6.4,36.0,Islas Baleares,Carretera
+2020-10-01,Suiza,98050.0,Media,Individual,8.5,5.0,44.1,Islas Baleares,Aeropuerto
+2020-09-01,Suiza,130892.0,Media-Alta,Individual,8.53,8.6,47.0,Cataluña,Aeropuerto
+2020-08-01,Suiza,235307.0,Alta,Paquete,8.41,11.0,27.2,Canarias,Tren
+2020-07-01,Suiza,179860.0,Alta,Paquete,8.77,16.1,30.0,Andalucía,Aeropuerto
+2020-06-01,Suiza,22087.0,Media-Alta,Individual,8.79,19.1,37.1,Andalucía,Aeropuerto
+2020-05-01,Suiza,0.0,Media,Individual,7.59,20.5,13.2,Andalucía,Aeropuerto
+2020-04-01,Suiza,0.0,Media,Individual,8.82,20.5,20.1,Islas Baleares,Carretera
+2020-03-01,Suiza,162384.0,Media,Individual,8.41,25.8,9.8,Andalucía,Aeropuerto
+2020-02-01,Suiza,372725.0,Baja,Individual,8.15,18.7,19.4,Islas Baleares,Aeropuerto
+2020-01-01,Suiza,365070.0,Baja,Individual,8.5,11.6,47.4,Canarias,Aeropuerto
+2019-12-01,Suiza,346405.0,Baja,Paquete,8.2,10.6,25.5,Andalucía,Aeropuerto
+2019-11-01,Suiza,383600.0,Baja,Individual,8.33,7.8,45.3,Cataluña,Aeropuerto
+2019-10-01,Suiza,598012.0,Media,Paquete,8.64,5.0,36.8,Canarias,Aeropuerto
+2019-09-01,Suiza,681821.0,Media-Alta,Individual,8.18,5.0,54.8,Andalucía,Aeropuerto
+2019-08-01,Suiza,686542.0,Alta,Paquete,8.35,8.1,42.8,Comunidad Valenciana,Aeropuerto
+2019-07-01,Suiza,712534.0,Alta,Individual,8.6,17.0,28.5,Cataluña,Carretera
+2019-06-01,Suiza,694440.0,Media-Alta,Paquete,8.73,19.1,15.8,Cataluña,Carretera
+2019-05-01,Suiza,616029.0,Media,Individual,8.4,24.6,5.8,Islas Baleares,Aeropuerto
+2019-04-01,Suiza,526060.0,Media,Individual,8.76,21.0,26.0,Madrid,Aeropuerto
+2019-03-01,Suiza,432480.0,Media,Paquete,8.38,22.0,28.3,Islas Baleares,Aeropuerto
+2019-02-01,Suiza,394226.0,Baja,Individual,8.33,19.7,20.0,Andalucía,Aeropuerto
+2019-01-01,Suiza,369273.0,Baja,Paquete,8.69,13.6,22.8,Canarias,Aeropuerto
+2024-09-01,Suiza,442279.0,Media-Alta,Individual,8.21,6.3,54.2,Islas Baleares,Carretera
+2024-08-01,Suiza,369229.0,Alta,Individual,8.91,8.1,53.1,Cataluña,Carretera
+2024-07-01,Suiza,489577.0,Alta,Paquete,8.92,12.0,49.8,Andalucía,Aeropuerto
+2024-06-01,Suiza,571089.0,Media-Alta,Individual,8.07,20.0,18.7,Cataluña,Carretera
+2024-05-01,Suiza,499516.0,Media,Individual,8.63,17.7,2.4,Canarias,Carretera
+2024-04-01,Suiza,355812.0,Media,Paquete,8.37,25.6,16.6,Cataluña,Aeropuerto
+2024-03-01,Suiza,285498.0,Media,Individual,8.89,24.1,16.1,Comunidad Valenciana,Carretera
+2024-02-01,Suiza,164162.0,Baja,Individual,8.31,21.7,18.3,Madrid,Aeropuerto
+2024-01-01,Suiza,172901.0,Baja,Individual,7.6,14.8,32.0,Comunidad Valenciana,Carretera
+2023-12-01,Suiza,219043.0,Baja,Individual,8.14,6.7,30.9,Cataluña,Aeropuerto
+2023-11-01,Suiza,241554.0,Baja,Individual,8.15,6.2,56.0,Cataluña,Aeropuerto
+2023-10-01,Suiza,397746.0,Media,Individual,8.51,5.8,53.8,Islas Baleares,Aeropuerto
+2023-09-01,Suiza,436934.0,Media-Alta,Individual,8.38,7.0,45.1,Islas Baleares,Aeropuerto
+2023-08-01,Suiza,292531.0,Alta,Individual,9.16,13.1,21.1,Andalucía,Aeropuerto
+2023-07-01,Suiza,439762.0,Alta,Individual,8.83,17.6,43.0,Comunidad Valenciana,Aeropuerto
+2023-06-01,Suiza,521113.0,Media-Alta,Paquete,8.56,23.0,27.1,Cataluña,Aeropuerto
+2023-05-01,Suiza,435908.0,Media,Individual,8.65,24.1,36.3,Islas Baleares,Aeropuerto
+2023-04-01,Suiza,320471.0,Media,Paquete,8.53,26.8,4.3,Islas Baleares,Aeropuerto
+2023-03-01,Suiza,258508.0,Media,Individual,8.36,23.1,0.0,Andalucía,Tren
+2023-02-01,Suiza,132520.0,Baja,Individual,8.18,20.5,42.7,Canarias,Aeropuerto
+2023-01-01,Suiza,139794.0,Baja,Paquete,8.44,12.6,43.1,Comunidad Valenciana,Aeropuerto
+2022-12-01,Suiza,171374.0,Baja,Paquete,8.16,9.6,50.5,Cataluña,Aeropuerto
+2022-11-01,Suiza,200787.0,Baja,Individual,8.27,7.6,30.1,Canarias,Aeropuerto
+2022-10-01,Suiza,316276.0,Media,Individual,8.73,10.5,51.7,Cataluña,Aeropuerto
+2022-09-01,Suiza,337593.0,Media-Alta,Individual,7.88,7.1,50.9,Canarias,Carretera
+2022-08-01,Suiza,223790.0,Alta,Paquete,8.57,12.1,55.4,Islas Baleares,Aeropuerto
+2022-07-01,Suiza,364025.0,Alta,Paquete,8.43,12.3,27.7,Andalucía,Aeropuerto
+2022-06-01,Suiza,385447.0,Media-Alta,Individual,8.57,20.2,16.6,Canarias,Aeropuerto
+2022-05-01,Suiza,314776.0,Media,Individual,8.77,24.3,23.1,Madrid,Carretera
+2022-04-01,Suiza,198897.0,Media,Individual,8.34,28.2,16.0,Andalucía,Aeropuerto
+2022-03-01,Suiza,150458.0,Media,Individual,8.06,22.3,9.2,Madrid,Aeropuerto
+2022-02-01,Suiza,69157.0,Baja,Individual,8.61,17.3,14.5,Islas Baleares,Aeropuerto
+2022-01-01,Suiza,68894.0,Baja,Individual,8.59,13.0,34.6,Canarias,Aeropuerto
+2021-12-01,Suiza,97848.0,Baja,Paquete,8.44,11.0,52.9,Islas Baleares,Puerto
+2021-11-01,Suiza,109874.0,Baja,Individual,8.7,5.0,40.7,Cataluña,Aeropuerto
+2021-10-01,Suiza,131656.0,Media,Paquete,8.57,5.0,37.5,Comunidad Valenciana,Aeropuerto
+2021-09-01,Suiza,140884.0,Media-Alta,Paquete,8.28,5.0,41.5,Andalucía,Aeropuerto
+2021-08-01,Suiza,113549.0,Alta,Individual,8.46,6.9,42.5,Madrid,Carretera
+2021-07-01,Suiza,121228.0,Alta,Individual,8.61,15.0,36.5,Comunidad Valenciana,Aeropuerto
+2021-06-01,Suiza,41616.0,Media-Alta,Individual,8.33,20.7,16.8,Canarias,Carretera
+2021-05-01,Suiza,14769.0,Media,Paquete,8.41,22.9,0.5,Islas Baleares,Aeropuerto
+2021-04-01,Suiza,7726.0,Media,Individual,8.95,27.7,0.0,Islas Baleares,Aeropuerto
+2021-03-01,Suiza,7188.0,Media,Individual,8.71,24.5,13.1,Islas Baleares,Aeropuerto
+2021-02-01,Suiza,5417.0,Baja,Paquete,8.3,18.7,13.7,Islas Baleares,Aeropuerto
+2021-01-01,Suiza,6087.0,Baja,Individual,8.56,12.1,16.0,Islas Baleares,Puerto
+2020-12-01,Suiza,7150.0,Baja,Paquete,8.63,10.2,49.5,Canarias,Carretera
+2020-11-01,Suiza,4752.0,Baja,Paquete,8.51,5.0,43.3,Comunidad Valenciana,Aeropuerto
+2020-10-01,Suiza,8450.0,Media,Individual,8.69,5.0,55.8,Canarias,Aeropuerto
+2020-09-01,Suiza,9849.0,Media-Alta,Individual,8.51,5.0,47.3,Islas Baleares,Aeropuerto
+2020-08-01,Suiza,12656.0,Alta,Paquete,8.88,13.3,50.9,Madrid,Aeropuerto
+2020-07-01,Suiza,15117.0,Alta,Individual,8.25,14.0,45.7,Islas Baleares,Aeropuerto
+2020-05-01,Suiza,0.0,Media,Individual,9.02,21.9,13.6,Cataluña,Aeropuerto
+2020-04-01,Suiza,0.0,Media,Individual,8.21,21.2,9.6,Cataluña,Aeropuerto
+2020-03-01,Suiza,78643.0,Media,Individual,8.65,23.0,12.4,Andalucía,Aeropuerto
+2020-02-01,Suiza,124813.0,Baja,Paquete,8.34,18.1,26.5,Cataluña,Aeropuerto
+2020-01-01,Suiza,142008.0,Baja,Paquete,9.16,15.6,32.5,Canarias,Carretera
+2019-12-01,Suiza,174682.0,Baja,Individual,8.89,8.1,33.2,Canarias,Aeropuerto
+2019-11-01,Suiza,217435.0,Baja,Individual,8.35,5.5,37.4,Comunidad Valenciana,Aeropuerto
+2019-10-01,Suiza,304838.0,Media,Individual,8.39,5.0,55.3,Cataluña,Aeropuerto
+2019-09-01,Suiza,363472.0,Media-Alta,Individual,8.52,7.6,43.2,Islas Baleares,Aeropuerto
+2019-08-01,Suiza,274194.0,Alta,Paquete,8.57,7.4,33.7,Cataluña,Aeropuerto
+2019-07-01,Suiza,424512.0,Alta,Paquete,8.74,15.2,44.0,Islas Baleares,Aeropuerto
+2019-06-01,Suiza,434190.0,Media-Alta,Individual,9.16,26.6,8.2,Islas Baleares,Aeropuerto
+2019-05-01,Suiza,344081.0,Media,Individual,8.34,22.9,15.7,Comunidad Valenciana,Carretera
+2019-04-01,Suiza,258668.0,Media,Individual,8.24,27.4,9.8,Canarias,Aeropuerto
+2019-03-01,Suiza,245642.0,Media,Paquete,8.76,21.7,25.8,Comunidad Valenciana,Aeropuerto
+2019-02-01,Suiza,134549.0,Baja,Individual,8.33,22.1,6.4,Andalucía,Aeropuerto
+2019-01-01,Suiza,148607.0,Baja,Individual,8.63,15.5,33.4,Cataluña,Aeropuerto
+2024-09-01,Suiza,558333.0,Media-Alta,Individual,7.54,5.0,50.3,Islas Baleares,Carretera
+2024-08-01,Suiza,465240.0,Alta,Individual,8.81,10.7,47.4,Andalucía,Aeropuerto
+2024-07-01,Suiza,522721.0,Alta,Paquete,8.86,15.3,34.3,Comunidad Valenciana,Aeropuerto
+2024-06-01,Suiza,496945.0,Media-Alta,Individual,8.58,18.9,24.3,Cataluña,Aeropuerto
+2024-05-01,Suiza,535897.0,Media,Paquete,8.48,21.6,0.0,Cataluña,Puerto
+2024-04-01,Suiza,364238.0,Media,Individual,8.79,25.5,14.4,Andalucía,Puerto
+2024-03-01,Suiza,335016.0,Media,Individual,8.42,24.4,6.3,Cataluña,Aeropuerto
+2024-02-01,Suiza,268738.0,Baja,Individual,8.57,21.0,12.4,Canarias,Aeropuerto
+2024-01-01,Suiza,354866.0,Baja,Individual,7.93,15.1,19.7,Islas Baleares,Aeropuerto
+2023-12-01,Suiza,295809.0,Baja,Individual,8.84,7.2,35.4,Canarias,Carretera
+2023-11-01,Suiza,314840.0,Baja,Individual,8.48,5.8,47.8,Islas Baleares,Aeropuerto
+2023-10-01,Suiza,489176.0,Media,Individual,8.82,6.8,50.9,Cataluña,Carretera
+2023-09-01,Suiza,466313.0,Media-Alta,Individual,8.06,5.0,41.1,Andalucía,Aeropuerto
+2023-08-01,Suiza,424393.0,Alta,Individual,8.39,10.4,44.7,Islas Baleares,Carretera
+2023-07-01,Suiza,491325.0,Alta,Individual,9.27,17.5,48.6,Cataluña,Carretera
+2023-06-01,Suiza,448636.0,Media-Alta,Paquete,9.34,19.3,11.0,Canarias,Aeropuerto
+2023-05-01,Suiza,503571.0,Media,Individual,8.36,23.9,13.4,Canarias,Aeropuerto
+2023-04-01,Suiza,388338.0,Media,Individual,8.71,26.6,10.2,Comunidad Valenciana,Carretera
+2023-03-01,Suiza,286173.0,Media,Paquete,8.44,23.0,22.6,Islas Baleares,Carretera
+2023-02-01,Suiza,239448.0,Baja,Individual,7.98,22.9,21.0,Canarias,Aeropuerto
+2023-01-01,Suiza,286717.0,Baja,Individual,8.72,17.0,3.6,Canarias,Aeropuerto
+2022-12-01,Suiza,234845.0,Baja,Individual,8.92,9.5,35.2,Cataluña,Aeropuerto
+2022-11-01,Suiza,263709.0,Baja,Individual,8.64,6.9,53.5,Islas Baleares,Aeropuerto
+2022-10-01,Suiza,420832.0,Media,Individual,8.61,5.0,53.0,Comunidad Valenciana,Aeropuerto
+2022-09-01,Suiza,394644.0,Media-Alta,Individual,8.85,6.1,45.7,Cataluña,Aeropuerto
+2022-08-01,Suiza,297488.0,Alta,Paquete,8.57,10.4,44.7,Cataluña,Aeropuerto
+2022-07-01,Suiza,398675.0,Alta,Individual,8.57,15.9,46.4,Cataluña,Aeropuerto
+2022-06-01,Suiza,373887.0,Media-Alta,Individual,8.46,23.5,31.6,Madrid,Aeropuerto
+2022-05-01,Suiza,349095.0,Media,Paquete,8.81,24.8,1.0,Cataluña,Aeropuerto
+2022-04-01,Suiza,307478.0,Media,Individual,8.57,23.5,16.1,Canarias,Aeropuerto
+2022-03-01,Suiza,210576.0,Media,Paquete,8.15,25.2,23.6,Islas Baleares,Aeropuerto
+2022-02-01,Suiza,139871.0,Baja,Paquete,8.04,22.7,35.2,Canarias,Tren
+2022-01-01,Suiza,166837.0,Baja,Individual,8.2,13.2,21.5,Canarias,Aeropuerto
+2021-12-01,Suiza,151539.0,Baja,Paquete,8.54,13.5,42.6,Cataluña,Aeropuerto
+2021-11-01,Suiza,162047.0,Baja,Individual,8.31,6.3,42.6,Cataluña,Aeropuerto
+2021-10-01,Suiza,172513.0,Media,Individual,8.3,5.0,46.5,Cataluña,Aeropuerto
+2021-09-01,Suiza,139269.0,Media-Alta,Individual,8.67,5.0,48.8,Andalucía,Carretera
+2021-08-01,Suiza,117694.0,Alta,Paquete,8.63,13.9,38.8,Madrid,Aeropuerto
+2021-07-01,Suiza,113756.0,Alta,Paquete,8.36,17.1,26.5,Canarias,Aeropuerto
+2021-06-01,Suiza,67076.0,Media-Alta,Individual,8.75,19.3,17.1,Comunidad Valenciana,Aeropuerto
+2021-05-01,Suiza,54380.0,Media,Paquete,8.2,25.8,9.3,Comunidad Valenciana,Aeropuerto
+2021-04-01,Suiza,25592.0,Media,Individual,8.63,21.7,12.2,Islas Baleares,Aeropuerto
+2021-03-01,Suiza,25667.0,Media,Individual,8.71,22.5,9.3,Comunidad Valenciana,Aeropuerto
+2021-02-01,Suiza,19210.0,Baja,Individual,8.31,18.5,15.9,Islas Baleares,Aeropuerto
+2021-01-01,Suiza,20679.0,Baja,Individual,8.3,15.8,19.0,Islas Baleares,Aeropuerto
+2020-12-01,Suiza,24744.0,Baja,Individual,8.1,7.3,53.4,Islas Baleares,Aeropuerto
+2020-11-01,Suiza,17359.0,Baja,Individual,8.61,6.9,52.9,Andalucía,Aeropuerto
+2020-10-01,Suiza,31584.0,Media,Individual,8.79,5.0,44.4,Comunidad Valenciana,Aeropuerto
+2020-09-01,Suiza,51620.0,Media-Alta,Individual,8.76,5.0,50.4,Canarias,Carretera
+2020-08-01,Suiza,56681.0,Alta,Individual,8.58,9.3,51.9,Canarias,Aeropuerto
+2020-07-01,Suiza,40643.0,Alta,Paquete,8.71,12.6,42.0,Canarias,Carretera
+2020-05-01,Suiza,0.0,Media,Individual,8.57,23.0,11.7,Andalucía,Aeropuerto
+2020-04-01,Suiza,0.0,Media,Individual,7.9,24.8,5.0,Madrid,Carretera
+2020-03-01,Suiza,134830.0,Media,Individual,7.95,22.8,2.6,Cataluña,Carretera
+2020-02-01,Suiza,239018.0,Baja,Individual,8.27,21.1,15.5,Islas Baleares,Aeropuerto
+2020-01-01,Suiza,303966.0,Baja,Individual,8.29,18.5,33.5,Cataluña,Aeropuerto
+2019-12-01,Suiza,236741.0,Baja,Individual,8.31,9.8,42.5,Comunidad Valenciana,Carretera
+2019-11-01,Suiza,226741.0,Baja,Individual,8.28,5.0,30.7,Islas Baleares,Aeropuerto
+2019-10-01,Suiza,396760.0,Media,Individual,8.85,7.8,57.6,Canarias,Puerto
+2019-09-01,Suiza,424042.0,Media-Alta,Individual,8.5,5.5,45.1,Andalucía,Aeropuerto
+2019-08-01,Suiza,345582.0,Alta,Individual,9.08,12.3,34.2,Cataluña,Carretera
+2019-07-01,Suiza,372981.0,Alta,Paquete,8.53,17.1,39.0,Andalucía,Carretera
+2019-06-01,Suiza,370334.0,Media-Alta,Individual,8.83,22.5,18.7,Andalucía,Aeropuerto
+2019-05-01,Suiza,374846.0,Media,Individual,8.68,21.3,15.0,Canarias,Carretera
+2019-04-01,Suiza,293192.0,Media,Individual,8.84,26.1,4.1,Cataluña,Aeropuerto
+2019-03-01,Suiza,264724.0,Media,Paquete,8.58,23.3,7.3,Canarias,Carretera
+2019-02-01,Suiza,206506.0,Baja,Individual,8.7,21.6,32.0,Andalucía,Aeropuerto
+2019-01-01,Suiza,254827.0,Baja,Individual,8.82,12.3,42.2,Islas Baleares,Aeropuerto
+2024-09-01,Suiza,619151.0,Media-Alta,Individual,8.92,10.5,45.3,Comunidad Valenciana,Aeropuerto
+2024-08-01,Suiza,608978.0,Alta,Individual,8.23,8.1,43.5,Madrid,Aeropuerto
+2024-07-01,Suiza,611838.0,Alta,Individual,9.05,13.2,19.7,Madrid,Carretera
+2024-06-01,Suiza,570545.0,Media-Alta,Individual,8.71,21.9,14.1,Islas Baleares,Aeropuerto
+2024-05-01,Suiza,618186.0,Media,Individual,8.61,22.2,26.4,Islas Baleares,Aeropuerto
+2024-04-01,Suiza,352781.0,Media,Individual,8.25,29.0,11.9,Cataluña,Aeropuerto
+2024-03-01,Suiza,349383.0,Media,Individual,8.95,24.3,12.6,Cataluña,Aeropuerto
+2024-02-01,Suiza,379507.0,Baja,Paquete,8.46,23.9,11.9,Comunidad Valenciana,Carretera
+2024-01-01,Suiza,292308.0,Baja,Individual,9.0,17.0,30.4,Canarias,Aeropuerto
+2023-12-01,Suiza,334173.0,Baja,Individual,8.18,11.8,46.9,Andalucía,Aeropuerto
+2023-11-01,Suiza,311128.0,Baja,Individual,8.31,10.1,46.7,Islas Baleares,Aeropuerto
+2023-10-01,Suiza,497270.0,Media,Individual,8.77,5.0,57.5,Andalucía,Carretera
+2023-09-01,Suiza,554223.0,Media-Alta,Individual,8.5,6.0,54.8,Cataluña,Aeropuerto
+2023-08-01,Suiza,526577.0,Alta,Paquete,8.6,15.7,26.1,Islas Baleares,Aeropuerto
+2023-07-01,Suiza,517020.0,Alta,Individual,8.89,14.8,36.8,Islas Baleares,Aeropuerto
+2023-06-01,Suiza,465293.0,Media-Alta,Individual,8.99,19.8,30.8,Canarias,Aeropuerto
+2023-05-01,Suiza,506592.0,Media,Individual,8.36,22.7,13.5,Canarias,Aeropuerto
+2023-04-01,Suiza,307189.0,Media,Individual,8.24,25.1,29.7,Madrid,Aeropuerto
+2023-03-01,Suiza,285284.0,Media,Paquete,8.81,23.7,20.1,Cataluña,Aeropuerto
+2023-02-01,Suiza,254059.0,Baja,Paquete,8.56,16.4,22.4,Madrid,Aeropuerto
+2023-01-01,Suiza,218375.0,Baja,Paquete,7.97,18.1,24.5,Andalucía,Aeropuerto
+2022-12-01,Suiza,192590.0,Baja,Paquete,8.1,10.3,46.3,Canarias,Aeropuerto
+2022-11-01,Suiza,209776.0,Baja,Individual,8.12,6.9,36.9,Islas Baleares,Aeropuerto
+2022-10-01,Suiza,301242.0,Media,Paquete,8.42,5.0,43.1,Comunidad Valenciana,Aeropuerto
+2022-09-01,Suiza,334717.0,Media-Alta,Individual,8.27,6.6,65.0,Cataluña,Carretera
+2022-08-01,Suiza,396199.0,Alta,Individual,8.76,12.5,51.2,Cataluña,Aeropuerto
+2022-07-01,Suiza,333474.0,Alta,Individual,8.33,13.3,31.9,Comunidad Valenciana,Aeropuerto
+2022-06-01,Suiza,260909.0,Media-Alta,Individual,8.73,22.9,12.3,Comunidad Valenciana,Carretera
+2022-05-01,Suiza,280006.0,Media,Individual,8.87,23.2,22.4,Canarias,Aeropuerto
+2022-04-01,Suiza,168019.0,Media,Individual,8.84,24.1,0.6,Islas Baleares,Carretera
+2022-03-01,Suiza,147694.0,Media,Individual,8.85,24.4,10.8,Islas Baleares,Aeropuerto
+2022-02-01,Suiza,139964.0,Baja,Individual,8.26,21.3,23.3,Islas Baleares,Aeropuerto
+2022-01-01,Suiza,72454.0,Baja,Individual,8.1,17.3,26.6,Cataluña,Aeropuerto
+2021-12-01,Suiza,117876.0,Baja,Individual,8.95,10.4,46.4,Canarias,Carretera
+2021-11-01,Suiza,112744.0,Baja,Individual,7.82,5.0,41.7,Madrid,Aeropuerto
+2021-10-01,Suiza,146547.0,Media,Paquete,7.72,5.0,65.1,Madrid,Aeropuerto
+2021-09-01,Suiza,161128.0,Media-Alta,Individual,8.44,5.8,51.5,Comunidad Valenciana,Aeropuerto
+2021-08-01,Suiza,152172.0,Alta,Paquete,8.24,9.4,46.4,Andalucía,Aeropuerto
+2021-07-01,Suiza,135738.0,Alta,Individual,8.09,15.2,32.5,Madrid,Aeropuerto
+2021-06-01,Suiza,79495.0,Media-Alta,Individual,8.65,21.4,0.7,Islas Baleares,Aeropuerto
+2021-05-01,Suiza,40574.0,Media,Paquete,8.28,22.2,38.2,Cataluña,Aeropuerto
+2021-04-01,Suiza,27797.0,Media,Paquete,8.5,25.7,9.1,Cataluña,Aeropuerto
+2021-03-01,Suiza,31890.0,Media,Individual,8.71,24.4,22.4,Islas Baleares,Aeropuerto
+2021-02-01,Suiza,1515.0,Baja,Individual,8.52,19.7,14.6,Andalucía,Aeropuerto
+2021-01-01,Suiza,19477.0,Baja,Individual,8.32,16.3,23.4,Cataluña,Aeropuerto
+2020-12-01,Suiza,22103.0,Baja,Individual,8.32,12.1,41.4,Canarias,Aeropuerto
+2020-11-01,Suiza,18568.0,Baja,Individual,8.54,7.3,51.3,Canarias,Aeropuerto
+2020-10-01,Suiza,27153.0,Media,Paquete,8.22,5.0,44.0,Andalucía,Aeropuerto
+2020-09-01,Suiza,28355.0,Media-Alta,Paquete,8.27,6.9,45.8,Cataluña,Aeropuerto
+2020-08-01,Suiza,78960.0,Alta,Individual,8.66,5.1,49.5,Cataluña,Aeropuerto
+2020-07-01,Suiza,73625.0,Alta,Individual,8.65,16.0,22.9,Islas Baleares,Aeropuerto
+2020-05-01,Suiza,0.0,Media,Individual,8.55,21.0,14.7,Canarias,Carretera
+2020-04-01,Suiza,0.0,Media,Individual,8.37,26.3,17.6,Canarias,Aeropuerto
+2020-03-01,Suiza,106412.0,Media,Paquete,8.41,22.2,39.2,Andalucía,Aeropuerto
+2020-02-01,Suiza,286181.0,Baja,Individual,8.77,20.1,25.0,Madrid,Aeropuerto
+2020-01-01,Suiza,420136.0,Baja,Paquete,8.47,15.4,38.9,Andalucía,Tren
+2019-12-01,Suiza,388502.0,Baja,Individual,9.04,10.6,30.2,Cataluña,Aeropuerto
+2019-11-01,Suiza,408660.0,Baja,Paquete,7.91,5.0,36.7,Andalucía,Aeropuerto
+2019-10-01,Suiza,532272.0,Media,Individual,8.33,5.0,64.8,Cataluña,Aeropuerto
+2019-09-01,Suiza,602447.0,Media-Alta,Paquete,8.25,8.7,44.2,Canarias,Aeropuerto
+2019-08-01,Suiza,636466.0,Alta,Paquete,8.92,8.9,35.1,Canarias,Aeropuerto
+2019-07-01,Suiza,518224.0,Alta,Individual,8.62,17.1,32.4,Islas Baleares,Tren
+2019-06-01,Suiza,577667.0,Media-Alta,Individual,8.73,22.6,26.5,Madrid,Carretera
+2019-05-01,Suiza,410132.0,Media,Individual,8.45,23.9,0.0,Andalucía,Aeropuerto
+2019-04-01,Suiza,472754.0,Media,Paquete,8.89,25.9,0.0,Islas Baleares,Carretera
+2019-03-01,Suiza,402645.0,Media,Individual,8.65,25.1,42.3,Canarias,Aeropuerto
+2019-02-01,Suiza,321603.0,Baja,Individual,8.32,20.1,26.4,Canarias,Aeropuerto
+2019-01-01,Suiza,379212.0,Baja,Paquete,8.64,20.8,13.5,Cataluña,Aeropuerto

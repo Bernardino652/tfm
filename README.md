@@ -1,0 +1,1 @@
+Contiene archivo cvs turismo_completo.csv y los archivos py con el codigo en python para la generacion del archivo csv, implementacion del modelo random forest, redes reuronales artificiales y codigo para visualizar_modelo_random_forest 

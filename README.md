@@ -1,1 +1,1 @@
-Contiene archivo cvs turismo_completo.csv y los archivos py con el codigo en python para la generacion del archivo csv, implementacion del modelo random forest, redes reuronales artificiales y codigo para visualizar_modelo_random_forest 
+Contiene los datasets, los programas escritos en python y los graficos interactivos utilizados en la tesis. Los datasets estan cargados en la carpeta Datasets y los programas estan cargados en la carpeta Scripts y los graficos interactivos en la carpeta GraficosInteractivos.

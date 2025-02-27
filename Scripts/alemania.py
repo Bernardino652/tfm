@@ -18,7 +18,7 @@ El script crea un archivo CSV con información detallada sobre:
 - Información sobre vuelos (cuando está disponible)
 
 Los datos generados se basan en estadísticas reales pero incluyen
-elementos simuklados para crear un conjunto de datos completo y coherente.
+elementos simulados para crear un conjunto de datos completo y coherente.
 
 Autor: Bernardino Chancusig Espin
 Fecha: 25/02/2025

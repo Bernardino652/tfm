@@ -1,3 +1,42 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+script: austria.py
+Generador de Datos Turísticos de Austria (2019-2023).
+
+Este script genera un conjunto de datos reales y simulados que representa el flujo turístico
+de visitantes Austria a España durante el período 2019-2023. Simula patrones 
+estacionales, impacto de la pandemia COVID-19, y la subsecuente recuperación.
+
+El script crea un archivo CSV con información detallada sobre:
+- Distribución mensual de turistas
+- Medios de acceso (avión, carretera, etc.)
+- Destinos principales visitados
+- Organización del viaje (paquete turístico vs. individual)
+- Datos climáticos asociados
+- Niveles de satisfacción
+- Información sobre vuelos (cuando está disponible)
+
+Los datos generados se basan en estadísticas reales pero incluyen
+elementos simulados para crear un conjunto de datos completo y coherente.
+
+Autor: Bernardino Chancusig Espin
+Fecha: 25/02/2025
+Versión: 1.0
+
+Dependencias:
+-----------
+- pandas (1.5.0+): Manipulación y análisis de datos estructurados.
+  Se utiliza para crear, manipular y exportar el DataFrame final a CSV.
+  
+- numpy (1.22.0+): Operaciones numéricas y selección aleatoria ponderada.
+  Se utiliza específicamente para la selección aleatoria de destinos
+  basada en sus probabilidades (np.random.choice con pesos).
+  
+- random: Generación de números aleatorios para datos sintéticos.
+  Se usan las funciones uniform() para generar valores continuos en rangos
+  específicos y choice() para selecciones aleatorias simples.
+"""
 import pandas as pd
 import numpy as np
 from random import uniform, choice

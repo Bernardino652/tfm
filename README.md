@@ -1,1 +1,1 @@
-Contiene los datasets, los programas escritos en python y los graficos interactivos utilizados en la tesis. Los datasets estan cargados en la carpeta Datasets y los programas estan cargados en la carpeta Scripts y los graficos interactivos en la carpeta GraficosInteractivos.
+Contiene los datasets, los programas escritos en python y los graficos interactivos utilizados en la tesis. Los datasets estan cargados en la carpeta Datasets, los programas estan cargados en la carpeta Scripts y los graficos interactivos en la carpeta GraficosInteractivos.

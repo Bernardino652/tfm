@@ -4,7 +4,7 @@
 script: alemania.py
 Generador de Datos Turísticos de Alemania (2019-2023).
 
-Este script genera un conjunto de datos sintéticos que representa el flujo turístico
+Este script genera un conjunto de datos reales y simulados que representa el flujo turístico
 de visitantes alemanes a España durante el período 2019-2023. Simula patrones 
 estacionales, impacto de la pandemia COVID-19, y la subsecuente recuperación.
 
@@ -18,7 +18,7 @@ El script crea un archivo CSV con información detallada sobre:
 - Información sobre vuelos (cuando está disponible)
 
 Los datos generados se basan en estadísticas reales pero incluyen
-elementos sintéticos para crear un conjunto de datos completo y coherente.
+elementos simuklados para crear un conjunto de datos completo y coherente.
 
 Autor: Bernardino Chancusig Espin
 Fecha: 25/02/2025
